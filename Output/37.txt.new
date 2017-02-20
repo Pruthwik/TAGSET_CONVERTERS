@@ -1,0 +1,2653 @@
+
+<Sentence id="2442">
+1	((	NP	
+1.1	डॉ.	NNP	<fs af='डॉ.,unk,,,,,,'>
+1.2	ऋता	NNP	<fs af='ऋता,unk,,,,,,'>
+	))		
+2	((	CCP	
+2.1	व	CC	<fs af='व,avy,,,,,,'>|<fs af='व,n,m,sg,,d,,'>|<fs af='व,n,m,pl,,d,,'>
+	))		
+3	((	NP	
+3.1	तिची	PRP	<fs af='ती,pn,f,sg,,o,ची,ि_ची'>
+	))		
+4	((	NP	
+4.1	आई	NNP	<fs af='आई,n,f,sg,,d,,'>|<fs af='आई,n,f,pl,,d,,'>|<fs af='आई,n,f,sg,,d,,'>|<fs af='ये,v,m,sg,1,,ई,ई' t='pas' a='h' type='ak'>|<fs af='ये,v,m,sg,3,,ई,ई' t='pas' a='h' type='ak'>
+4.2	दीप्ती	NNP	<fs af='दीप्ती,unk,,,,,,'>
+	))		
+5	((	NP	
+5.1	सध्या	NST	<fs af='सध्या,n,,,,,,'>
+	))		
+6	((	NP	
+6.1	पुण्यातील	NNP	<fs af='पुण्य,n,n,sg,,o,तील,ा_तील'>
+	))		
+7	((	NP	
+7.1	तिची	PRP	<fs af='ती,pn,f,sg,,o,ची,ि_ची'>
+	))		
+8	((	NP	
+8.1	आत्या	NN	<fs af='आत्या,n,f,sg,,d,,'>|<fs af='आत्या,n,f,pl,,d,,'>|<fs af='ये,v,f,pl,3,,त्या,त्या' t='pas' a='p' m='c' type='ak'>
+	))		
+9	((	NP	
+9.1	विजया	NN	<fs af='विजय,n,m,sg,,o,ा,ा'>
+	))		
+10	((	NP	
+10.1	लिमये	NNP	<fs af='लिमये,unk,,,,,,'>
+	))		
+11	((	NP	
+11.1	यांच्याकडे	PRP	<fs af='हा,pn,,,,,कडे,यां_च्या_कडे'>|<fs af='ही,pn,f,pl,,o,कडे,यां_च्या_कडे'>|<fs af='हे,pn,n,pl,,o,कडे,यां_च्या_कडे'>
+	))		
+12	((	VGF	
+12.1	आल्या	VM	<fs af='आले,n,n,sg,,o,्या,्या'>|<fs af='ये,v,f,pl,3,,ल्या,ल्या' t='pas' a='p' type='ak'>|<fs af='ये,v,f,pl,,d,ल्या,ल्या' type='kr'>|<fs af='ये,v,,,,o,ल्या,ल्या' type='kr'>|<fs af='ये,v,f,pl,2,,ल्या,आ_ल्या' t='pas' a='p' m='i' type='ak'>|<fs af='ये,v,f,pl,2,d,ल्या,आ_ल्या' m='i' type='ak'>|<fs af='ये,v,,pl,2,o,ल्या,आ_ल्या' m='i' type='ak'>|<fs af='ये,v,,,,,ल्या,आ_ल्या'>
+12.2	आहेत	VM	<fs af='आहे,v,,pl,3,,त,त' t='pre' a='s' type='ak'>
+12.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2443">
+1	((	NP	
+1.1	'	SYM	<fs af='&#39;,punc,,,,,,'>
+1.2	नारी	NN	<fs af='नार,n,f,sg,,o,ी,ी'>|<fs af='नार,n,f,pl,,d,,ी'>|<fs af='नारी,n,f,sg,,d,,'>|<fs af='नारी,n,f,pl,,d,,'>|<fs af='नारी,n,f,sg,,o,,'>
+1.3	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	संस्थेतील	NN	<fs af='संस्था,n,f,sg,,o,तील,े_तील'>
+	))		
+3	((	NP	
+3.1	तिची	PRP	<fs af='ती,pn,f,sg,,o,ची,ि_ची'>
+	))		
+4	((	NP	
+4.1	इंटर्नशिप	NNP	<fs af='इंटर्नशिप,unk,,,,,,'>
+	))		
+5	((	NP	
+5.1	संपल्यावर	VM	<fs af='संप,v,f,pl,3,,वर,ल्या_वर' t='pas' a='p' type='ak'>|<fs af='संप,v,f,pl,,d,वर,ल्या_वर' type='kr'>|<fs af='संप,v,,,,o,वर,ल्या_वर' type='kr'>
+	))		
+6	((	NP	
+6.1	ती	PRP	<fs af='ती,pn,f,sg,,d,,'>|<fs af='ती,pn,,,,,,'>|<fs af='ते,pn,n,pl,,d,,ी'>|<fs af='ते,pn,,,,,ी,ी'>
+	))		
+7	((	NP	
+7.1	जानेवारीअखेर	NN	<fs af='जानेवारीअखेर,unk,,,,,,'>
+	))		
+8	((	RBP	
+8.1	पुन्हा	RB	<fs af='पुन्हा,adv,,,,,,'>
+	))		
+9	((	NP	
+9.1	अमेरिकेला	NNP	<fs af='अमेरिका,n,f,sg,,o,ला,े_ला'>
+9.2	रवाना	NNP	<fs af='रवा,n,m,sg,,d,,ना'>
+	))		
+10	((	VGF	
+10.1	होणार	VM	<fs af='हो,v,,,,,णार,णार' type='kr'>|<fs af='हो,v,,,,,णार,णार' type='kr'>
+10.2	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+10.3	;	SYM	<fs af=';,punc,,,,,,'>
+	))		
+11	((	CCP	
+11.1	मात्र	CC	<fs af='मात्र,avy,,,,,,'>|<fs af='मात्र,avy,,,,,,'>
+	))		
+12	((	NP	
+12.1	भारतात	NNP	<fs af='भार,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='भार,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='भार,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='भारत,n,m,sg,,o,त,ा_त'>
+12.2	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+13	((	NP	
+13.1	एड्‌स	NNP	<fs af='एड्‌स,unk,,,,,,'>
+13.2	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+14	((	NP	
+14.1	वर	NST	<fs af='वर,nst,,,,,,'>|<fs af='वर,pp,,,,,,'>|<fs af='वर,n,m,sg,,d,,'>|<fs af='वर,n,m,pl,,d,,'>
+	))		
+15	((	NP	
+15.1	काम	NN	<fs af='काम,n,n,sg,,d,,'>|<fs af='काम,n,m,sg,,d,,'>|<fs af='काम,n,m,pl,,d,,'>
+	))		
+16	((	VGNN	
+16.1	करण्याची	VM	<fs af='कर,v,n,sg,,o,ची,ण्या_ची' kr='n_kr' type='kr'>|<fs af='करणी,n,f,pl,,d,,्या_ची'>
+	))		
+17	((	NP	
+17.1	संधी	NN	<fs af='संधी,n,f,sg,,d,,'>|<fs af='संधी,n,f,pl,,d,,'>
+	))		
+18	((	VGF	
+18.1	मिळाली	VM	<fs af='मिळ,v,f,sg,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='मिळ,v,n,pl,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='मिळ,v,f,sg,,d,ली,ली' type='kr'>|<fs af='मिळ,v,n,pl,,d,ली,ली' type='kr'>|<fs af='मिळ,v,f,sg,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='मिळ,v,n,pl,3,,ली,ली' t='pas' a='p' type='ak'>
+	))		
+19	((	CCP	
+19.1	तर	CC	<fs af='तर,avy,,,,,,'>|<fs af='तर,avy,,,,,,'>|<fs af='तर,v,,sg,2,,,' m='i'>|<fs af='तर,n,f,sg,,d,,'>
+	))		
+20	((	RBP	
+20.1	नक्कीच	RB	<fs af='नक्की,adv,,,,,च,च'>|<fs af='नक्की,n,,,,,च,च'>
+	))		
+21	((	NP	
+21.1	भारतात	NN	<fs af='भार,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='भार,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='भार,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='भारत,n,m,sg,,o,त,ा_त'>
+	))		
+22	((	VGF	
+22.1	येईन	VM	<fs af='ये,v,,sg,1,,ईन,ईन' t='fut' type='ak'>|<fs af='ये,v,,,,,ईन,ईन'>
+22.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+23	((	NP	
+23.1	असे	PRP	<fs af='अस,v,m,sg,1,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,3,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,1,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,3,,े,े' t='pas' a='h' type='ak'>|<fs af='असा,pn,m,pl,,d,,े'>|<fs af='असे,v,,sg,2,,,' m='i'>|<fs af='असे,pn,n,sg,,d,,'>
+	))		
+24	((	NP	
+24.1	डॉ.	NNP	<fs af='डॉ.,unk,,,,,,'>
+24.2	ऋताने	NNP	<fs af='ऋताने,unk,,,,,,'>
+	))		
+25	((	VGF	
+25.1	सांगितले	VM	<fs af='सांग,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='सांग,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='सांग,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='सांग,v,n,sg,,d,ले,ले' type='kr'>|<fs af='सांग,v,m,pl,,d,ले,ले' type='kr'>
+25.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2444">
+1	((	NP	
+1.1	कोणत्याही	DM_DMQ	<fs af='कोणता,pn,,,,,ही,्या_ही'>|<fs af='कोणती,pn,,,,,ही,्या_ही'>|<fs af='कोणते,pn,,,,,ही,्या_ही'>
+	))		
+2	((	NP	
+2.1	क्रमांकावर	NN	<fs af='क्रमांक,n,m,sg,,o,वर,ा_वर'>
+	))		
+3	((	NP	
+3.1	फलंदाजी	NN	<fs af='फलंदाजी,unk,,,,,,'>
+	))		
+4	((	VGNF	
+4.1	करण्यास	VM	<fs af='कर,v,n,sg,,o,स,ण्या_स' type='kr'>|<fs af='करणी,n,f,pl,,d,,्या_स'>
+	))		
+5	((	NP	
+5.1	मी	PRP	<fs af='मी,pn,,sg,,d,,'>
+	))		
+6	((	JJP	
+6.1	सज्ज	JJ	<fs af='सज्ज,n,,,,,,'>
+	))		
+7	((	VGF	
+7.1	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+7.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+8	((	NP	
+8.1	असा	JJ	<fs af='अस,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='अस,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='असा,pn,m,sg,,d,,'>
+8.2	विश्‍वास	NN	<fs af='विश्‍वास,n,,,,,,'>
+	))		
+9	((	NP	
+9.1	भारताचा	NNP	<fs af='भारत,n,m,sg,,o,चा,ा_चा'>
+	))		
+10	((	NP	
+10.1	माजी	JJ	<fs af='माज,v,m,sg,1,,ी,ी' t='pas' a='h' type='ak'>|<fs af='माज,v,m,sg,3,,ी,ी' t='pas' a='h' type='ak'>|<fs af='माजी,pp,,,,,,'>|<fs af='माजी,n,,,,,,'>
+10.2	क्रिकेट	NN	<fs af='क्रिकेट,n,m,sg,,d,,'>|<fs af='क्रिकेट,n,m,pl,,d,,'>
+10.3	कर्णधार	NN	<fs af='कर्णधार,n,,,,,,'>
+	))		
+11	((	NP	
+11.1	सौरभ	NNP	<fs af='सौरभ,unk,,,,,,'>
+11.2	गांगुलीने	NNP	<fs af='गांगुलीने,unk,,,,,,'>
+	))		
+12	((	NP	
+12.1	आज	NN	<fs af='आज,n,,,,,,'>
+	))		
+13	((	JJP	
+13.1	व्यक्त	JJ	<fs af='व्यक्त,n,,,,,,'>
+	))		
+14	((	VGF	
+14.1	केला	VM	<fs af='कर,v,m,sg,1,,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='कर,v,m,sg,,d,ला,ला' type='kr'>
+14.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2445">
+1	((	NP	
+1.1	प्रदीर्घ	JJ	<fs af='प्रदीर्घ,unk,,,,,,'>
+1.2	कालावधीनंतर	NN	<fs af='कालावधी,n,m,sg,,o,नंतर,नंतर'>
+	))		
+2	((	NP	
+2.1	वेस्ट	XC	<fs af='वेस्ट,unk,,,,,,'>
+2.2	इंडीजविरुद्ध	NNP	<fs af='इंडीजविरुद्ध,unk,,,,,,'>
+	))		
+3	((	VGNF	
+3.1	होणाऱ्या	VM	<fs af='होणाऱ्या,unk,,,,,,'>
+	))		
+4	((	NP	
+4.1	एकदिवसीय	QC	<fs af='एकदिवसीय,unk,,,,,,'>
+4.2	आंतरराष्ट्रीय	JJ	<fs af='आंतरराष्ट्रीय,n,,,,,,'>
+4.3	क्रिकेट	NN	<fs af='क्रिकेट,n,m,sg,,d,,'>|<fs af='क्रिकेट,n,m,pl,,d,,'>
+4.4	सामन्यांच्या	NN	<fs af='सामना,n,m,pl,,o,च्या,्यां_च्या'>
+	))		
+5	((	NP	
+5.1	मालिकेद्वारे	NN	<fs af='मालिका,n,f,sg,,o,द्वारे,े_द्वारे'>
+	))		
+6	((	NP	
+6.1	गांगुली	NNP	<fs af='गांगुली,unk,,,,,,'>
+	))		
+7	((	NP	
+7.1	भारतीय	JJ	<fs af='भारतीय,n,m,sg,,d,,'>|<fs af='भारतीय,n,m,pl,,d,,'>|<fs af='भारतीय,n,,,,,,'>
+7.2	संघात	NN	<fs af='संघ,n,,sg,,o,ात,ात'>|<fs af='संघ,n,,sg,,o,त,ा_त'>
+	))		
+8	((	NP	
+8.1	पुनरागमन	NN	<fs af='पुनरागमन,n,,,,,,'>
+	))		
+9	((	VGF	
+9.1	करीत	VM	<fs af='कर,v,m,pl,3,,ीत,ीत' t='pas' a='h' type='ak'>
+9.2	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+9.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2446">
+1	((	NP	
+1.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+1.2	पार्श्‍वभूमीवर	NN	<fs af='पार्श्‍वभूमी,n,,sg,,o,वर,वर'>
+	))		
+2	((	NP	
+2.1	गांगुली	NNP	<fs af='गांगुली,unk,,,,,,'>
+	))		
+3	((	NP	
+3.1	कोणत्या	DM_DMQ	<fs af='कोणता,pn,,,,,्या,्या'>|<fs af='कोणते,pn,,,,,्या,्या'>
+	))		
+4	((	NP	
+4.1	क्रमांकावर	NN	<fs af='क्रमांक,n,m,sg,,o,वर,ा_वर'>
+	))		
+5	((	VGF	
+5.1	खेळणार	VM	<fs af='खेळ,v,,,,,णार,णार' type='kr'>
+	))		
+6	((	NP	
+6.1	याविषयी	PRP	<fs af='हा,pn,m,sg,,o,विषयी,या_विषयी'>|<fs af='ही,pn,f,sg,,o,विषयी,या_विषयी'>|<fs af='हे,pn,n,sg,,o,विषयी,या_विषयी'>
+	))		
+7	((	NP	
+7.1	वेगवेगळे	JJ	<fs af='वेग,n,,,,,वेगळे,वेगळे'>|<fs af='वेगवेगळा,adj,m,pl,,d,,े'>|<fs af='वेगवेगळा,adj,n,sg,,d,,े'>|<fs af='वेगवेगळा,n,m,pl,,d,,े'>
+7.2	मतप्रवाह	NN	<fs af='मतप्रवाह,unk,,,,,,'>
+	))		
+8	((	VGF	
+8.1	आहेत	VM	<fs af='आहे,v,,pl,3,,त,त' t='pre' a='s' type='ak'>
+8.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2447">
+1	((	NP	
+1.1	दस्तुरखुद्द	PRP	<fs af='दस्तुरखुद्द,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	गांगुली	NNP	<fs af='गांगुली,unk,,,,,,'>
+	))		
+3	((	NP	
+3.1	मात्र	RP	<fs af='मात्र,avy,,,,,,'>|<fs af='मात्र,avy,,,,,,'>
+	))		
+4	((	NP	
+4.1	त्याच्या	PRP	<fs af='ते,pn,n,sg,,o,च्या,्या_च्या'>|<fs af='तो,pn,m,sg,,o,च्या,्या_च्या'>
+	))		
+5	((	NP	
+5.1	आवडत्या	JJ	<fs af='आवड,v,f,pl,3,,त्या,त्या' t='pas' a='p' m='c' type='ak'>|<fs af='आवडता,adj,f,pl,,d,,्या'>|<fs af='आवडता,adj,m,,,o,,्या'>|<fs af='आवडता,adj,f,,,o,,्या'>|<fs af='आवडता,adj,n,,,o,,्या'>
+5.2	सलामीवीराच्या	NN	<fs af='सलामीवीर,n,,sg,,o,च्या,ा_च्या'>
+	))		
+6	((	NP	
+6.1	भूमिकेत	NN	<fs af='भूमिका,n,f,sg,,o,त,े_त'>
+	))		
+7	((	NP	
+7.1	मैदानात	NN	<fs af='मैदान,n,n,sg,,o,त,ा_त'>
+	))		
+8	((	VGNN	
+8.1	उतरण्यासाठी	VM	<fs af='उतर,v,,,,,साठी,ण्यासाठी' kr='n_kr'>
+	))		
+9	((	JJP	
+9.1	उत्सुक	JJ	<fs af='उत्सुक,n,,,,,,'>
+	))		
+10	((	VGF	
+10.1	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+10.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2448">
+1	((	NP	
+1.1	"	SYM	<fs af='&#34;,punc,,,,,,'>
+1.2	सचिन	NNP	<fs af='सचिन,unk,,,,,,'>
+1.3	तेंडुलकरबरोबर	NNP	<fs af='तेंडुलकरबरोबर,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	मी	PRP	<fs af='मी,pn,,sg,,d,,'>
+	))		
+3	((	NP	
+3.1	यापूर्वीही	PRP	<fs af='हा,pn,m,sg,,o,ही,या_पूर्वी_ही'>|<fs af='ही,pn,f,sg,,o,ही,या_पूर्वी_ही'>|<fs af='हे,pn,n,sg,,o,ही,या_पूर्वी_ही'>
+	))		
+4	((	NP	
+4.1	सलामीवीराची	NN	<fs af='सलामीवीर,n,,sg,,o,ची,ा_ची'>
+	))		
+5	((	NP	
+5.1	भूमिका	NN	<fs af='भूमिका,n,f,sg,,d,,'>|<fs af='भूमिका,n,f,pl,,d,,'>
+	))		
+6	((	RBP	
+6.1	पार	RB	<fs af='पार,adv,,,,,,'>|<fs af='पार,n,m,sg,,d,,'>|<fs af='पार,n,m,pl,,d,,'>
+	))		
+7	((	VGF	
+7.1	पाडलेली	VM	<fs af='पाडलेली,unk,,,,,,'>
+7.2	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+7.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2449">
+1	((	CCP	
+1.1	मात्र	CC	<fs af='मात्र,avy,,,,,,'>|<fs af='मात्र,avy,,,,,,'>
+1.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	मला	PRP	<fs af='मल,n,m,sg,,o,ा,ा'>|<fs af='मी,pn,,sg,,o,ला,ला'>
+	))		
+3	((	NP	
+3.1	कोणत्या	DM_DMQ	<fs af='कोणता,pn,,,,,्या,्या'>|<fs af='कोणते,pn,,,,,्या,्या'>
+	))		
+4	((	NP	
+4.1	क्रमांकावर	NN	<fs af='क्रमांक,n,m,sg,,o,वर,ा_वर'>
+	))		
+5	((	NP	
+5.1	फलंदाजीसाठी	NN	<fs af='फलंदाजीसाठी,unk,,,,,,'>
+	))		
+6	((	VGF	
+6.1	पाठवायचे	VM	<fs af='पाठव,v,f,sg,1,,ायचे,ायचे' t='pas' a='h' type='ak'>|<fs af='पाठव,v,n,sg,3,,ायचे,ायचे' t='pas' a='h' type='ak'>|<fs af='पाठव,v,m,pl,3,,ायचे,ायचे' t='pas' a='h' type='ak'>
+	))		
+7	((	NP	
+7.1	याचा	PRP	<fs af='हा,pn,m,sg,,o,चा,या_चा'>|<fs af='ही,pn,f,sg,,o,चा,या_चा'>|<fs af='हे,pn,n,sg,,o,चा,या_चा'>
+	))		
+8	((	NP	
+8.1	अंतिम	JJ	<fs af='अंतिम,n,,,,,,'>
+8.2	निर्णय	NN	<fs af='निर्णय,n,m,sg,,d,,'>|<fs af='निर्णय,n,m,pl,,d,,'>
+	))		
+9	((	NP	
+9.1	संघ	NN	<fs af='संघ,n,,,,,,'>
+9.2	व्यवस्थापन	NN	<fs af='व्यवस्थापन,n,n,sg,,d,,'>
+	))		
+10	((	VGF	
+10.1	घेणार	VM	<fs af='घे,v,,,,,णार,णार' type='kr'>|<fs af='घे,v,,,,,णार,णार'>
+10.2	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+10.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2450">
+1	((	NP	
+1.1	मी	PRP	<fs af='मी,pn,,sg,,d,,'>
+	))		
+2	((	NP	
+2.1	कोणत्याही	DM_DMQ	<fs af='कोणता,pn,,,,,ही,्या_ही'>|<fs af='कोणती,pn,,,,,ही,्या_ही'>|<fs af='कोणते,pn,,,,,ही,्या_ही'>
+	))		
+3	((	NP	
+3.1	क्रमांकावर	NN	<fs af='क्रमांक,n,m,sg,,o,वर,ा_वर'>
+	))		
+4	((	NP	
+4.1	फलंदाजी	NN	<fs af='फलंदाजी,unk,,,,,,'>
+	))		
+5	((	VGNF	
+5.1	करण्यास	VM	<fs af='कर,v,n,sg,,o,स,ण्या_स' type='kr'>|<fs af='करणी,n,f,pl,,d,,्या_स'>
+	))		
+6	((	JJP	
+6.1	सज्ज	JJ	<fs af='सज्ज,n,,,,,,'>
+	))		
+7	((	VGF	
+7.1	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+7.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+7.3	"	SYM	<fs af='&#34;,punc,,,,,,'>
+	))		
+8	((	NP	
+8.1	असे	PRP	<fs af='अस,v,m,sg,1,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,3,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,1,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,3,,े,े' t='pas' a='h' type='ak'>|<fs af='असा,pn,m,pl,,d,,े'>|<fs af='असे,v,,sg,2,,,' m='i'>|<fs af='असे,pn,n,sg,,d,,'>
+	))		
+9	((	NP	
+9.1	गांगुली	NNP	<fs af='गांगुली,unk,,,,,,'>
+	))		
+10	((	VGF	
+10.1	म्हणाला	VM	<fs af='म्हण,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='म्हण,v,m,sg,,d,ला,ला' type='kr'>|<fs af='म्हण,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>
+10.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2451">
+1	((	NP	
+1.1	वेस्ट	XC	<fs af='वेस्ट,unk,,,,,,'>
+1.2	इंडीजविरुद्धच्या	NNP	<fs af='इंडीजविरुद्धच्या,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	मालिकेत	NN	<fs af='मालिका,n,f,sg,,o,त,े_त'>
+	))		
+3	((	NP	
+3.1	भारतीय	JJ	<fs af='भारतीय,n,m,sg,,d,,'>|<fs af='भारतीय,n,m,pl,,d,,'>|<fs af='भारतीय,n,,,,,,'>
+3.2	संघ	NN	<fs af='संघ,n,,,,,,'>
+	))		
+4	((	NP	
+4.1	चांगली	JJ	<fs af='चांगला,adj,f,sg,,d,,ी'>|<fs af='चांगला,adj,n,pl,,d,,ी'>
+4.2	कामगिरी	NN	<fs af='कामगिरी,n,,,,,,'>|<fs af='कामगिरी,n,,sg,,o,ी,ी'>
+	))		
+5	((	VGF	
+5.1	करेल	VM	<fs af='कर,v,,sg,3,,ेल,ेल' t='fut' type='ak'>
+5.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+6	((	NP	
+6.1	असा	JJ	<fs af='अस,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='अस,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='असा,pn,m,sg,,d,,'>
+6.2	विश्‍वासही	NN	<fs af='विश्‍वास,n,,sg,,o,ही,ही'>
+	))		
+7	((	NP	
+7.1	त्याने	PRP	<fs af='ते,pn,n,sg,,o,ने,्या_ने'>|<fs af='तो,pn,m,sg,,o,ने,्या_ने'>
+	))		
+8	((	JJP	
+8.1	व्यक्त	JJ	<fs af='व्यक्त,n,,,,,,'>
+	))		
+9	((	VGF	
+9.1	केला	VM	<fs af='कर,v,m,sg,1,,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='कर,v,m,sg,,d,ला,ला' type='kr'>
+9.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2452">
+1	((	NP	
+1.1	नागपूर	NNP	<fs af='नागपूर,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	येथे	DEM	<fs af='येथ,pn,,,,,े,े'>
+	))		
+3	((	NP	
+3.1	२१	QC	<fs af='२१,num,,,,,,'>
+3.2	जानेवारीला	NNP	<fs af='जानेवारीला,unk,,,,,,'>
+	))		
+4	((	VGNF	
+4.1	होणाऱ्या	VM	<fs af='होणाऱ्या,unk,,,,,,'>
+	))		
+5	((	NP	
+5.1	पहिल्या	QO	<fs af='पह,v,,,,,िल्या,िल्या'>|<fs af='पह,v,,,,,िल्या,िल्या'>|<fs af='पहिला,num,,,,,्या,्या'>|<fs af='पहिल्या,num,,,,,,'>
+5.2	एकदिवसीय	JJ	<fs af='एकदिवसीय,unk,,,,,,'>
+5.3	सामन्याने	NN	<fs af='सामना,n,m,sg,,o,ने,्या_ने'>
+	))		
+6	((	NP	
+6.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+6.2	मालिकेला	NN	<fs af='मालिका,n,f,sg,,o,ला,े_ला'>
+	))		
+7	((	NP	
+7.1	सुरवात	NN	<fs af='सुरवात,n,f,sg,,d,,'>
+	))		
+8	((	VGF	
+8.1	होणार	VM	<fs af='हो,v,,,,,णार,णार' type='kr'>|<fs af='हो,v,,,,,णार,णार' type='kr'>
+8.2	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+8.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2453">
+1	((	NP	
+1.1	दक्षिण	XC	<fs af='दक्षिण,n,f,sg,,d,,'>|<fs af='दक्षिण,n,,,,,,'>
+1.2	आफ्रिकेविरुद्धच्या	NNP	<fs af='आफ्रिकेविरुद्धच्या,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	कसोटी	XC	<fs af='कसोटी,n,f,sg,,d,,'>|<fs af='कसोटी,n,f,pl,,d,,'>
+2.2	मालिकेत	NN	<fs af='मालिका,n,f,sg,,o,त,े_त'>
+	))		
+3	((	NP	
+3.1	चमकदार	JJ	<fs af='चमकदार,n,,,,,,'>
+3.2	कामगिरी	NN	<fs af='कामगिरी,n,,,,,,'>|<fs af='कामगिरी,n,,sg,,o,ी,ी'>
+	))		
+4	((	VGNF	
+4.1	केलेला	VM	<fs af='कर,v,m,sg,1,d,े_लेला,े_लेला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,े_लेला,े_लेला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,,d,लेला,लेला' kr='l_kr' type='kr'>
+	))		
+5	((	NP	
+5.1	गांगुली	NNP	<fs af='गांगुली,unk,,,,,,'>
+	))		
+6	((	NP	
+6.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+6.2	मालिकेतही	NN	<fs af='मालिका,n,f,sg,,o,ही,े_त_ही'>
+	))		
+7	((	NP	
+7.1	चांगली	JJ	<fs af='चांगला,adj,f,sg,,d,,ी'>|<fs af='चांगला,adj,n,pl,,d,,ी'>
+7.2	कामगिरी	NN	<fs af='कामगिरी,n,,,,,,'>|<fs af='कामगिरी,n,,sg,,o,ी,ी'>
+	))		
+8	((	VGNN	
+8.1	करण्याबाबत	VM	<fs af='कर,v,n,sg,,o,बाबत,ण्या_बाबत' kr='n_kr' type='kr'>|<fs af='करणी,n,f,pl,,d,,्या_बाबत'>
+	))		
+9	((	JJP	
+9.1	आशावादी	JJ	<fs af='आशावाद,n,,sg,,o,ी,ी'>|<fs af='आशावादी,n,,,,,,'>
+	))		
+10	((	VGF	
+10.1	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+10.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2454">
+1	((	NP	
+1.1	पाकिस्तानविरुद्धच्या	NN	<fs af='पाकिस्तान,n,,sg,,o,च्या,विरुद्ध_च्या'>
+	))		
+2	((	NP	
+2.1	पहिल्या	QO	<fs af='पह,v,,,,,िल्या,िल्या'>|<fs af='पह,v,,,,,िल्या,िल्या'>|<fs af='पहिला,num,,,,,्या,्या'>|<fs af='पहिल्या,num,,,,,,'>
+2.2	क्रिकेट	XC	<fs af='क्रिकेट,n,m,sg,,d,,'>|<fs af='क्रिकेट,n,m,pl,,d,,'>
+2.3	कसोटी	XC	<fs af='कसोटी,n,f,sg,,d,,'>|<fs af='कसोटी,n,f,pl,,d,,'>
+2.4	सामन्यात	XC	<fs af='सामना,n,m,sg,,o,त,्या_त'>
+2.5	दक्षिण	XC	<fs af='दक्षिण,n,f,sg,,d,,'>|<fs af='दक्षिण,n,,,,,,'>
+2.6	आफ्रिका	NNP	<fs af='आफ्रिका,unk,,,,,,'>
+	))		
+3	((	NP	
+3.1	विजयाच्या	NN	<fs af='विजय,n,m,sg,,o,च्या,ा_च्या'>
+	))		
+4	((	NP	
+4.1	मार्गावर	NN	<fs af='मार्ग,n,,sg,,o,वर,ा_वर'>|<fs af='मार्ग,n,m,sg,,o,वर,ा_वर'>
+	))		
+5	((	VGF	
+5.1	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2455">
+1	((	NP	
+1.1	विजयासाठी	NN	<fs af='विजय,n,m,sg,,o,साठी,ा_साठी'>
+	))		
+2	((	NP	
+2.1	१९९	NNP	<fs af='१९९,num,,,,,,'>
+2.2	धावांचे	NNP	<fs af='धाव,n,f,pl,,o,चे,ां_चे'>
+	))		
+3	((	NP	
+3.1	सोपे	JJ	<fs af='सोपा,adj,m,pl,,d,,े'>|<fs af='सोपा,adj,n,sg,,d,,े'>|<fs af='सोपा,n,m,pl,,d,,े'>
+3.2	आव्हान	NN	<fs af='आव्हान,n,n,sg,,d,,'>
+	))		
+4	((	VGNF	
+4.1	घेऊन	VM	<fs af='घे,v,,,,,ऊन,ऊन' type='kr'>|<fs af='घे,v,,,,,ऊन,ऊन'>
+	))		
+5	((	NP	
+5.1	उतरलेल्या	NN	<fs af='उतर,v,f,pl,,d,लेल्या,लेल्या' type='kr'>|<fs af='उतर,v,,,,o,लेल्या,लेल्या' type='kr'>
+	))		
+6	((	NP	
+6.1	दक्षिण	XC	<fs af='दक्षिण,n,f,sg,,d,,'>|<fs af='दक्षिण,n,,,,,,'>
+6.2	आफ्रिकेच्या	NNP	<fs af='आफ्रिकेच्या,unk,,,,,,'>
+	))		
+7	((	NP	
+7.1	आज	NN	<fs af='आज,n,,,,,,'>
+	))		
+8	((	NP	
+8.1	चौथ्या	QO	<fs af='चौथा,num,,,,,्या,्या'>|<fs af='चौथ्या,num,,,,,,'>
+8.2	दिवसअखेर	NN	<fs af='दिवस,n,,,,,अखेर,अखेर'>
+	))		
+9	((	NP	
+9.1	२	QC	<fs af='२,num,,,,,,'>
+9.2	बाद	NN	<fs af='बाद,unk,,,,,,'>
+	))		
+10	((	NP	
+10.1	६९	QC	<fs af='६९,num,,,,,,'>
+10.2	धावा	NN	<fs af='धाव,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='धाव,n,f,pl,,d,,ा'>|<fs af='धावा,n,m,sg,,d,,'>
+	))		
+11	((	VGF	
+11.1	झाल्या	VM	<fs af='हो,v,,,,,ल्या,ल्या'>|<fs af='हो,v,f,pl,3,,ल्या,झा_ल्या' t='pas' a='p' type='ak'>|<fs af='हो,v,f,pl,,d,ल्या,झा_ल्या' type='kr'>|<fs af='हो,v,,,,o,ल्या,झा_ल्या' type='kr'>|<fs af='हो,v,f,pl,,d,ल्या,झा_ल्या' type='kr'>|<fs af='हो,v,,,,o,ल्या,झा_ल्या' type='kr'>
+11.2	होत्या	VM	<fs af='हो,v,f,pl,3,,त्या,त्या' t='pas' a='p' m='c' type='ak'>|<fs af='हो,v,,,,,त्या,त्या'>
+11.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2456">
+1	((	NP	
+1.1	उद्या	NN	<fs af='उद्या,n,,,,,,'>
+	))		
+2	((	NP	
+2.1	शेवटच्या	NN	<fs af='शेवट,nst,,,,,च्या,च्या'>|<fs af='शेवट,n,,,,,च्या,च्या'>|<fs af='शेवटचा,adj,f,pl,,d,,्या'>|<fs af='शेवटचा,adj,m,,,o,,्या'>|<fs af='शेवटचा,adj,f,,,o,,्या'>|<fs af='शेवटचा,adj,n,,,o,,्या'>
+	))		
+3	((	NP	
+3.1	दिवशी	NN	<fs af='दिवशी,n,,,,,,'>|<fs af='दिवशी,n,,sg,,o,ी,ी'>
+	))		
+4	((	NP	
+4.1	त्यांना	PRP	<fs af='ती,pn,f,pl,,o,ना,्यां_ना'>|<fs af='ते,pn,n,pl,,o,ना,्यां_ना'>|<fs af='तो,pn,m,pl,,o,ना,्यां_ना'>
+	))		
+5	((	NP	
+5.1	आणखी	QF	<fs af='आणखी,adv,,,,,,'>|<fs af='आणखी,avy,,,,,,'>|<fs af='आणखी,avy,,,,,,'>|<fs af='आणखी,avy,,,,,,'>|<fs af='आणखी,n,,,,,,'>
+5.2	१३०	QC	<fs af='१३०,num,,,,,,'>
+5.3	धावांची	NN	<fs af='धाव,n,f,pl,,o,ची,ां_ची'>
+	))		
+6	((	NP	
+6.1	गरज	NN	<fs af='गरज,v,,sg,2,,,' m='i'>|<fs af='गरज,n,,,,,,'>|<fs af='गरज,n,f,sg,,d,,'>
+	))		
+7	((	VGNF	
+7.1	असून	VM	<fs af='अस,v,,,,,ून,ून' type='kr'>|<fs af='अस,v,,,,,ून,ून'>|<fs af='असून,avy,,,,,,'>
+7.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+8	((	NP	
+8.1	उपाहारापर्यंत	NN	<fs af='उपाहारापर्यंत,unk,,,,,,'>
+	))		
+9	((	NP	
+9.1	ते	PRP	<fs af='ते,avy,,,,,,'>|<fs af='ते,avy,,,,,,'>|<fs af='ते,pn,n,sg,,d,,'>|<fs af='ते,pn,,,,,,'>|<fs af='तो,pn,m,pl,,d,,े'>|<fs af='तो,pn,,,,,े,े'>
+	))		
+10	((	NP	
+10.1	विजयावर	NN	<fs af='विजय,n,m,sg,,o,वर,ा_वर'>
+	))		
+11	((	NP	
+11.1	शिक्कामोर्तब	NN	<fs af='शिक्कामोर्तब,unk,,,,,,'>
+	))		
+12	((	VGF	
+12.1	करतील	VM	<fs af='कर,v,,pl,3,,तील,तील' t='fut' type='ak'>|<fs af='कर,n,,,,,तील,तील'>
+	))		
+13	((	NP	
+13.1	असे	PRP	<fs af='अस,v,m,sg,1,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,3,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,1,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,3,,े,े' t='pas' a='h' type='ak'>|<fs af='असा,pn,m,pl,,d,,े'>|<fs af='असे,v,,sg,2,,,' m='i'>|<fs af='असे,pn,n,sg,,d,,'>
+	))		
+14	((	VGF	
+14.1	वाटते	VM	<fs af='वाट,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='वाट,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='वाट,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='वाट,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='वाट,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='वाट,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>
+14.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2457">
+1	((	NP	
+1.1	पहिल्या	QO	<fs af='पह,v,,,,,िल्या,िल्या'>|<fs af='पह,v,,,,,िल्या,िल्या'>|<fs af='पहिला,num,,,,,्या,्या'>|<fs af='पहिल्या,num,,,,,,'>
+1.2	डावात	NN	<fs af='डाव,n,m,sg,,o,त,ा_त'>
+	))		
+2	((	NP	
+2.1	१०४	QC	<fs af='१०४,num,,,,,,'>
+2.2	धावांनी	NN	<fs af='धाव,n,f,pl,,o,नी,ां_नी'>
+	))		
+3	((	NP	
+3.1	पिछाडीवर	NN	<fs af='पिछाडी,n,f,sg,,o,वर,वर'>
+	))		
+4	((	VGNF	
+4.1	पडलेल्या	VM	<fs af='पड,v,f,pl,,d,लेल्या,लेल्या' type='kr'>|<fs af='पड,v,,,,o,लेल्या,लेल्या' type='kr'>|<fs af='पड,v,,,,,लेल्या,लेल्या'>
+	))		
+5	((	NP	
+5.1	पाकिस्तानला	NN	<fs af='पाकिस्तान,n,,sg,,o,ला,ला'>
+	))		
+6	((	NP	
+6.1	आज	NN	<fs af='आज,n,,,,,,'>
+	))		
+7	((	NP	
+7.1	तळाच्या	NN	<fs af='तळ,n,m,sg,,o,च्या,ा_च्या'>
+	))		
+8	((	NP	
+8.1	फलंदाजांच्या	NN	<fs af='फलंदाज,n,m,pl,,o,च्या,ां_च्या'>
+	))		
+9	((	NP	
+9.1	उपयुक्त	JJ	<fs af='उपयुक्त,n,,,,,,'>
+9.2	खेळामुळे	NN	<fs af='खेळ,n,m,sg,,o,मुळे,ा_मुळे'>
+	))		
+10	((	NP	
+10.1	दुसऱ्या	QO	<fs af='दुसरा,adj,,,,,ऱ्या,ऱ्या'>|<fs af='दुसऱ्या,num,,,,,,'>
+10.2	डावात	NN	<fs af='डाव,n,m,sg,,o,त,ा_त'>
+	))		
+11	((	NP	
+11.1	३०२	QC	<fs af='३०२,num,,,,,,'>
+11.2	धावांपर्यंत	NN	<fs af='धाव,n,f,pl,,o,पर्यंत,ां_पर्यंत'>
+	))		
+12	((	NP	
+12.1	मजल	NN	<fs af='मजल,n,f,sg,,d,,'>
+	))		
+13	((	VGF	
+13.1	मारता	VM	<fs af='मार,v,m,pl,2,,ता,ता' t='pre' a='h' type='ak'>|<fs af='मार,v,f,pl,2,,ता,ता' t='pre' a='h' type='ak'>|<fs af='मार,v,m,pl,2,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='मार,v,f,pl,2,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='मार,v,m,sg,3,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='मार,v,,,,,ता,ता' type='kr'>
+13.2	आली	VM	<fs af='आले,n,n,pl,,d,,ी'>|<fs af='ये,v,f,sg,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='ये,v,n,pl,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='ये,v,f,sg,,d,ली,ली' type='kr'>|<fs af='ये,v,n,pl,,d,ली,ली' type='kr'>|<fs af='ये,v,f,pl,2,,ली,आ_ली' t='pas' a='p' m='i' type='ak'>|<fs af='ये,v,n,pl,2,,ली,आ_ली' t='pas' a='p' m='i' type='ak'>|<fs af='ये,v,f,pl,2,d,ली,आ_ली' m='i' type='ak'>|<fs af='ये,v,n,pl,2,d,ली,आ_ली' m='i' type='ak'>|<fs af='ये,v,,,,,ली,आ_ली'>
+13.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2458">
+1	((	NP	
+1.1	त्यांचा	PRP	<fs af='ती,pn,f,pl,,o,चा,्यां_चा'>|<fs af='ते,pn,n,pl,,o,चा,्यां_चा'>|<fs af='तो,pn,m,pl,,o,चा,्यां_चा'>
+	))		
+2	((	NP	
+2.1	डाव	NN	<fs af='डाव,n,m,sg,,d,,'>|<fs af='डाव,n,m,pl,,d,,'>|<fs af='डाव,n,f,sg,,d,,'>
+	))		
+3	((	NP	
+3.1	संपविण्यात	NN	<fs af='संपव,v,m,pl,3,,त,िण्या_त' t='pas' a='h' type='ak'>|<fs af='संपव,v,,,,,त,िण्या_त' type='kr'>
+	))		
+4	((	NP	
+4.1	महत्त्वाची	JJ	<fs af='महत्त्व,n,n,sg,,o,ची,ा_ची'>|<fs af='महत्त्वाची,n,,,,,,'>
+	))		
+5	((	NP	
+5.1	कामगिरी	NN	<fs af='कामगिरी,n,,,,,,'>|<fs af='कामगिरी,n,,sg,,o,ी,ी'>
+	))		
+6	((	NP	
+6.1	पॉल	XC	<fs af='पॉल,unk,,,,,,'>
+6.2	हॅरिसने	NNP	<fs af='हॅरिसने,unk,,,,,,'>
+	))		
+7	((	VGF	
+7.1	बजावली	VM	<fs af='बजाव,v,f,sg,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='बजाव,v,n,pl,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='बजाव,v,f,sg,,d,ली,ली' type='kr'>|<fs af='बजाव,v,n,pl,,d,ली,ली' type='kr'>
+7.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2459">
+1	((	NP	
+1.1	त्याच्या	PRP	<fs af='ते,pn,n,sg,,o,च्या,्या_च्या'>|<fs af='तो,pn,m,sg,,o,च्या,्या_च्या'>
+	))		
+2	((	NP	
+2.1	फिरकीने	NN	<fs af='फिरकी,n,f,sg,,o,ने,ने'>
+	))		
+3	((	NP	
+3.1	४६	QC	<fs af='४६,num,,,,,,'>
+3.2	धावांत	NN	<fs af='धाव,n,f,pl,,o,त,ां_त'>
+	))		
+4	((	NP	
+4.1	चार	QC	<fs af='चार,num,,,,,,'>|<fs af='चार,v,,sg,2,,,' m='i'>|<fs af='चार,n,m,sg,,d,,'>|<fs af='चार,n,m,pl,,d,,'>|<fs af='चार,n,,,,,,'>
+4.2	गडी	NN	<fs af='गडी,n,m,sg,,d,,'>|<fs af='गडी,n,m,pl,,d,,'>
+	))		
+5	((	NP	
+5.1	बाद	NN	<fs af='बाद,unk,,,,,,'>
+	))		
+6	((	VGF	
+6.1	केले	VM	<fs af='कर,v,m,sg,1,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='कर,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='कर,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='कर,v,n,sg,,d,ले,ले' type='kr'>|<fs af='कर,v,m,pl,,d,ले,ले' type='kr'>
+6.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2460">
+1	((	NP	
+1.1	शॉन	XC	<fs af='शॉन,unk,,,,,,'>
+1.2	पोलॉकने	NN	<fs af='पोलॉकने,unk,,,,,,'>
+	))		
+2	((	JJP	
+2.1	तीन	QC	<fs af='तीन,num,,,,,,'>|<fs af='तीन,n,,,,,,'>|<fs af='ते,pn,,,,,न,ी_न'>
+2.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+3	((	CCP	
+3.1	तर	CC	<fs af='तर,avy,,,,,,'>|<fs af='तर,avy,,,,,,'>|<fs af='तर,v,,sg,2,,,' m='i'>|<fs af='तर,n,f,sg,,d,,'>
+	))		
+4	((	NP	
+4.1	जॅक	NN	<fs af='जॅक,unk,,,,,,'>
+	))		
+5	((	NP	
+5.1	कॅलिसने	NN	<fs af='कॅलिसने,unk,,,,,,'>
+	))		
+6	((	NP	
+6.1	दोन	QC	<fs af='दोन,num,,,,,,'>|<fs af='दोन,n,,,,,,'>
+6.2	बळी	NN	<fs af='बळ,n,,,,,ी,ी'>|<fs af='बळी,n,m,sg,,d,,'>|<fs af='बळी,n,m,pl,,d,,'>
+	))		
+7	((	VGF	
+7.1	मिळविले	VM	<fs af='मिळव,v,f,sg,1,,िले,िले' t='pas' a='p' type='ak'>|<fs af='मिळव,v,n,sg,3,,िले,िले' t='pas' a='p' type='ak'>|<fs af='मिळव,v,m,pl,3,,िले,िले' t='pas' a='p' type='ak'>
+7.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2461">
+1	((	NP	
+1.1	पाकिस्तानची	NN	<fs af='पाकिस्तान,n,,sg,,o,ची,ची'>
+	))		
+2	((	NP	
+2.1	एकवेळ	NN	<fs af='एकवेळ,unk,,,,,,'>
+	))		
+3	((	NP	
+3.1	७	QC	<fs af='७,num,,,,,,'>
+3.2	बाद	NNP	<fs af='बाद,unk,,,,,,'>
+	))		
+4	((	NP	
+4.1	१९९	NNP	<fs af='१९९,num,,,,,,'>
+	))		
+5	((	NP	
+5.1	अशी	JJ	<fs af='अशी,pn,f,sg,,d,,'>|<fs af='असे,pn,n,pl,,d,,शी'>
+5.2	अवस्था	NN	<fs af='अवस्था,n,f,sg,,d,,'>|<fs af='अवस्था,n,f,pl,,d,,'>
+	))		
+6	((	VGF	
+6.1	होती	VM	<fs af='हो,v,f,sg,3,,ती,ती' t='pas' a='p' m='c' type='ak'>|<fs af='हो,v,n,pl,3,,ती,ती' t='pas' a='p' m='c' type='ak'>|<fs af='हो,v,,,,,ती,ती'>
+6.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2462">
+1	((	NP	
+1.1	त्यातून	PRP	<fs af='ते,pn,n,sg,,o,तून,्या_तून'>|<fs af='तो,pn,m,sg,,o,तून,्या_तून'>
+	))		
+2	((	NP	
+2.1	नावेद	XC	<fs af='नावेद,unk,,,,,,'>
+2.2	उल	XC	<fs af='उल,unk,,,,,,'>
+2.3	हसन	NN	<fs af='हसन,unk,,,,,,'>
+2.4	(	SYM	<fs af='&#40;,punc,,,,,,'>
+2.5	३३	QC	<fs af='३३,num,,,,,,'>
+2.6	)	SYM	<fs af='&#41;,punc,,,,,,'>
+2.7	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	शाहिद	XC	<fs af='शाहिद,unk,,,,,,'>
+3.2	नझीर	NNP	<fs af='नझीर,unk,,,,,,'>
+3.3	(	SYM	<fs af='&#40;,punc,,,,,,'>
+	))		
+4	((	JJP	
+4.1	४०	QC	<fs af='४०,num,,,,,,'>
+4.2	)	SYM	<fs af='&#41;,punc,,,,,,'>
+	))		
+5	((	CCP	
+5.1	आणि	CC	<fs af='आणि,avy,,,,,,'>
+	))		
+6	((	NP	
+6.1	दानिश	XC	<fs af='दानिश,unk,,,,,,'>
+6.2	कनेरिया	NNP	<fs af='कनेरिया,unk,,,,,,'>
+6.3	(	SYM	<fs af='&#40;,punc,,,,,,'>
+	))		
+7	((	NP	
+7.1	२३	QC	<fs af='२३,num,,,,,,'>
+7.2	)	SYM	<fs af='&#41;,punc,,,,,,'>
+	))		
+8	((	NP	
+8.1	यांनी	PRP	<fs af='हा,pn,,,,,नी,यां_नी'>|<fs af='ही,pn,f,pl,,o,नी,यां_नी'>|<fs af='हे,pn,n,pl,,o,नी,यां_नी'>
+	))		
+9	((	NP	
+9.1	आक्रमक	JJ	<fs af='आक्रमक,n,,,,,,'>
+9.2	खेळ	NN	<fs af='खेळ,v,,sg,2,,,' m='i'>|<fs af='खेळ,n,m,sg,,d,,'>|<fs af='खेळ,n,m,pl,,d,,'>
+	))		
+10	((	VGF	
+10.1	केला	VM	<fs af='कर,v,m,sg,1,,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='कर,v,m,sg,,d,ला,ला' type='kr'>
+10.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2463">
+1	((	NP	
+1.1	नावेद	XC	<fs af='नावेद,unk,,,,,,'>
+1.2	उल	XC	<fs af='उल,unk,,,,,,'>
+1.3	हसन	NN	<fs af='हसन,unk,,,,,,'>
+	))		
+2	((	CCP	
+2.1	व	CC	<fs af='व,avy,,,,,,'>|<fs af='व,n,m,sg,,d,,'>|<fs af='व,n,m,pl,,d,,'>
+	))		
+3	((	NP	
+3.1	शाहिद	XC	<fs af='शाहिद,unk,,,,,,'>
+3.2	नझीर	NNP	<fs af='नझीर,unk,,,,,,'>
+	))		
+4	((	NP	
+4.1	यांनी	PRP	<fs af='हा,pn,,,,,नी,यां_नी'>|<fs af='ही,pn,f,pl,,o,नी,यां_नी'>|<fs af='हे,pn,n,pl,,o,नी,यां_नी'>
+	))		
+5	((	NP	
+5.1	आठव्या	NN	<fs af='आठवा,num,,,,,्या,्या'>|<fs af='आठव्या,num,,,,,,'>
+	))		
+6	((	NP	
+6.1	विकेटसाठी	NN	<fs af='विकेटसाठी,unk,,,,,,'>
+	))		
+7	((	NP	
+7.1	५६	QC	<fs af='५६,num,,,,,,'>
+7.2	धावांची	NN	<fs af='धाव,n,f,pl,,o,ची,ां_ची'>
+	))		
+8	((	NP	
+8.1	महत्त्वपूर्ण	JJ	<fs af='महत्त्वपूर्ण,n,,,,,,'>
+8.2	भागीदारी	NN	<fs af='भागीदारी,n,,,,,,'>|<fs af='भागीदारी,n,,sg,,o,ी,ी'>
+	))		
+9	((	VGF	
+9.1	केली	VM	<fs af='कर,v,m,sg,1,,ली,े_ली' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,,ली,े_ली' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,ली,े_ली' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,ली,े_ली' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ली,े_ली' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ली,े_ली' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,ली,े_ली' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,ली,े_ली' t='pas' a='h' type='ak'>|<fs af='कर,v,f,sg,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='कर,v,n,pl,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='कर,v,f,sg,,d,ली,ली' type='kr'>|<fs af='कर,v,n,pl,,d,ली,ली' type='kr'>
+9.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2464">
+1	((	NP	
+1.1	नावेदने	NN	<fs af='नावेदने,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	४१	QC	<fs af='४१,num,,,,,,'>
+2.2	चेंडूंतील	NN	<fs af='चेंडू,n,m,pl,,o,तील,ं_तील'>
+	))		
+3	((	NP	
+3.1	खेळात	NN	<fs af='खेळ,n,m,sg,,o,त,ा_त'>
+	))		
+4	((	NP	
+4.1	चार	QC	<fs af='चार,num,,,,,,'>|<fs af='चार,v,,sg,2,,,' m='i'>|<fs af='चार,n,m,sg,,d,,'>|<fs af='चार,n,m,pl,,d,,'>|<fs af='चार,n,,,,,,'>
+4.2	चौकार	NN	<fs af='चौकार,n,m,sg,,d,,'>|<fs af='चौकार,n,m,pl,,d,,'>
+	))		
+5	((	CCP	
+5.1	आणि	CC	<fs af='आणि,avy,,,,,,'>
+	))		
+6	((	NP	
+6.1	एक	QC	<fs af='एक,num,,,,,,'>|<fs af='एक,n,m,sg,,d,,'>|<fs af='एक,n,m,pl,,d,,'>|<fs af='एक,n,,,,,,'>
+6.2	षटकार	NN	<fs af='षटकार,unk,,,,,,'>
+	))		
+7	((	VGF	
+7.1	मारला	VM	<fs af='मार,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='मार,v,m,sg,,d,ला,ला' type='kr'>
+7.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+8	((	CCP	
+8.1	तर	CC	<fs af='तर,avy,,,,,,'>|<fs af='तर,avy,,,,,,'>|<fs af='तर,v,,sg,2,,,' m='i'>|<fs af='तर,n,f,sg,,d,,'>
+	))		
+9	((	NP	
+9.1	नझीरनेही	NN	<fs af='नझीरनेही,unk,,,,,,'>
+	))		
+10	((	NP	
+10.1	३५	QC	<fs af='३५,num,,,,,,'>
+10.2	चेंडूंतील	NN	<fs af='चेंडू,n,m,pl,,o,तील,ं_तील'>
+	))		
+11	((	NP	
+11.1	खेळात	NN	<fs af='खेळ,n,m,sg,,o,त,ा_त'>
+	))		
+12	((	NP	
+12.1	चारवेळा	JJ	<fs af='चारवेळा,unk,,,,,,'>
+12.2	चेंडू	NN	<fs af='चेंडू,n,m,sg,,d,,'>|<fs af='चेंडू,n,m,pl,,d,,'>
+	))		
+13	((	NP	
+13.1	सीमापार	NN	<fs af='सीमापार,unk,,,,,,'>
+	))		
+14	((	VGF	
+14.1	केला	VM	<fs af='कर,v,m,sg,1,,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='कर,v,m,sg,,d,ला,ला' type='kr'>
+	))		
+15	((	CCP	
+15.1	आणि	CC	<fs af='आणि,avy,,,,,,'>
+	))		
+16	((	NP	
+16.1	एक	QC	<fs af='एक,num,,,,,,'>|<fs af='एक,n,m,sg,,d,,'>|<fs af='एक,n,m,pl,,d,,'>|<fs af='एक,n,,,,,,'>
+16.2	षटकार	NN	<fs af='षटकार,unk,,,,,,'>
+	))		
+17	((	VGF	
+17.1	ठोकला	VM	<fs af='ठोक,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='ठोक,v,m,sg,,d,ला,ला' type='kr'>
+17.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2465">
+1	((	NP	
+1.1	कनेरियाने	NNP	<fs af='कनेरियाने,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	२३	QC	<fs af='२३,num,,,,,,'>
+2.2	चेंडूंचा	NN	<fs af='चेंडू,n,m,pl,,o,चा,ं_चा'>
+	))		
+3	((	NP	
+3.1	सामना	NN	<fs af='सामना,n,m,sg,,d,,'>
+	))		
+4	((	VGNF	
+4.1	करताना	VM	<fs af='कर,v,,,,,ताना,ताना' type='tn'>
+	))		
+5	((	NP	
+5.1	तीन	QC	<fs af='तीन,num,,,,,,'>|<fs af='तीन,n,,,,,,'>|<fs af='ते,pn,,,,,न,ी_न'>
+5.2	चौकार	NN	<fs af='चौकार,n,m,sg,,d,,'>|<fs af='चौकार,n,m,pl,,d,,'>
+	))		
+6	((	VGF	
+6.1	लगावले	VM	<fs af='लगावले,unk,,,,,,'>
+	))		
+7	((	CCP	
+7.1	व	CC	<fs af='व,avy,,,,,,'>|<fs af='व,n,m,sg,,d,,'>|<fs af='व,n,m,pl,,d,,'>
+	))		
+8	((	NP	
+8.1	एक	QC	<fs af='एक,num,,,,,,'>|<fs af='एक,n,m,sg,,d,,'>|<fs af='एक,n,m,pl,,d,,'>|<fs af='एक,n,,,,,,'>
+8.2	षटकार	NN	<fs af='षटकार,unk,,,,,,'>
+	))		
+9	((	VGF	
+9.1	मारला	VM	<fs af='मार,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='मार,v,m,sg,,d,ला,ला' type='kr'>
+9.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2466">
+1	((	NP	
+1.1	खारफुटीची	NN	<fs af='खारफुटीची,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	म्हणजेच	UT	<fs af='म्हणजेच,unk,,,,,,'>
+	))		
+3	((	NP	
+3.1	तिवरांची	NN	<fs af='ती,pn,f,sg,,o,ची,ि_वर_ां_ची'>
+	))		
+4	((	VGF	
+4.1	जंगले	VM	<fs af='जंगल,n,n,pl,,d,,े'>
+	))		
+5	((	CCP	
+5.1	आणि	CC	<fs af='आणि,avy,,,,,,'>
+	))		
+6	((	NP	
+6.1	त्यात	PRP	<fs af='ते,pn,n,sg,,o,त,्या_त'>|<fs af='तो,pn,m,sg,,o,त,्या_त'>
+	))		
+7	((	NP	
+7.1	निसर्गाने	NN	<fs af='निसर्ग,n,m,sg,,o,ने,ा_ने'>
+	))		
+8	((	JJP	
+8.1	तयार	JJ	<fs af='तयार,n,,,,,,'>
+	))		
+9	((	VGNF	
+9.1	केलेली	VM	<fs af='कर,v,m,sg,1,d,लेली,े_लेली' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,लेली,े_लेली' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,लेली,े_लेली' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,लेली,े_लेली' t='pas' a='h' type='ak'>|<fs af='कर,v,f,sg,,d,लेली,लेली' type='kr'>|<fs af='कर,v,n,pl,,d,लेली,लेली' type='kr'>
+	))		
+10	((	NP	
+10.1	डबकी	NN	<fs af='डबके,n,n,pl,,d,,ी'>
+	))		
+11	((	NP	
+11.1	यांच्यात	PRP	<fs af='हा,pn,,,,,त,यां_च्या_त'>|<fs af='हा,pn,,,,,्यात,यां_च_्यात'>|<fs af='ही,pn,f,pl,,o,त,यां_च्या_त'>|<fs af='ही,pn,f,pl,,o,्यात,यां_च_्यात'>|<fs af='हे,pn,n,pl,,o,त,यां_च्या_त'>|<fs af='हे,pn,n,pl,,o,्यात,यां_च_्यात'>
+	))		
+12	((	NP	
+12.1	समुद्राचे	NN	<fs af='समुद्र,n,m,sg,,o,चे,ा_चे'>
+	))		
+13	((	NP	
+13.1	उधाण	NN	<fs af='उधाण,unk,,,,,,'>
+	))		
+14	((	NP	
+14.1	थोपविण्याची	QF	<fs af='थोपविण्याची,unk,,,,,,'>
+14.2	मोठी	JJ	<fs af='मोठा,adj,f,sg,,d,,ी'>|<fs af='मोठा,adj,n,pl,,d,,ी'>|<fs af='मोठी,avy,,,,,,'>|<fs af='मोठी,avy,,,,,,'>|<fs af='मोठी,n,f,sg,,d,,'>|<fs af='मोठी,n,f,pl,,d,,'>|<fs af='मोठी,n,,,,,,'>
+14.3	ताकद	NN	<fs af='ताकद,n,f,sg,,d,,'>
+	))		
+15	((	VGF	
+15.1	असते	VM	<fs af='अस,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='अस,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='अस,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='अस,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='अस,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='अस,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='अस,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='अस,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='अस,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='अस,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='अस,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='अस,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>
+15.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2467">
+1	((	NP	
+1.1	समुद्राचे	NN	<fs af='समुद्र,n,m,sg,,o,चे,ा_चे'>
+	))		
+2	((	NP	
+2.1	पाणी	NN	<fs af='पाणी,n,n,sg,,d,,'>
+	))		
+3	((	NP	
+3.1	खाडीत	NN	<fs af='खाडी,n,f,sg,,o,त,त'>
+	))		
+4	((	VGNF	
+4.1	चढल्यावर	VM	<fs af='चढ,v,f,pl,3,,वर,ल्या_वर' t='pas' a='p' type='ak'>|<fs af='चढ,v,f,pl,,d,वर,ल्या_वर' type='kr'>|<fs af='चढ,v,,,,o,वर,ल्या_वर' type='kr'>
+	))		
+5	((	NP	
+5.1	काही	QF	<fs af='काही,avy,,,,,,'>|<fs af='काही,avy,,,,,,'>
+5.2	प्रवाहांनी	NN	<fs af='प्रवाह,n,m,pl,,o,नी,ां_नी'>
+	))		
+6	((	NP	
+6.1	आत	NST	<fs af='आत,nst,,,,,,'>|<fs af='ये,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='ये,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='ये,v,,,,,त,त' type='kr'>
+	))		
+7	((	VGF	
+7.1	घुसते	VM	<fs af='घुस,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='घुस,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='घुस,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='घुस,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='घुस,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='घुस,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>
+7.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2468">
+1	((	NP	
+1.1	तिथे	DEM	<fs af='तिथ,pn,,,,,े,े'>|<fs af='तिथे,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	खारफुटीच्या	NN	<fs af='खारफुटीच्या,unk,,,,,,'>
+	))		
+3	((	NP	
+3.1	फांद्या	NN	<fs af='फांदी,n,f,pl,,d,,्या'>
+	))		
+4	((	NP	
+4.1	हातांसारखे	NN	<fs af='हात,n,m,pl,,o,सारखे,ां_सारखे'>|<fs af='हाती,n,,sg,,o,सारखे,ां_सारखे'>
+	))		
+5	((	NP	
+5.1	काम	NN	<fs af='काम,n,n,sg,,d,,'>|<fs af='काम,n,m,sg,,d,,'>|<fs af='काम,n,m,pl,,d,,'>
+	))		
+6	((	VGNF	
+6.1	करून	VM	<fs af='कर,v,,,,,ून,ून' type='kr'>
+	))		
+7	((	NP	
+7.1	हे	DEM	<fs af='हा,pn,m,pl,,d,,े'>|<fs af='हा,pn,m,pl,,d,,े'>|<fs af='हे,pn,,,,,,'>|<fs af='हे,pn,n,sg,,d,,'>
+7.2	पाणी	NN	<fs af='पाणी,n,n,sg,,d,,'>
+	))		
+8	((	VGF	
+8.1	थोपवून	VM	<fs af='थोपवून,unk,,,,,,'>
+8.2	धरतात	VAUX	<fs af='धर,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='धर,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='धर,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>
+8.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2469">
+1	((	CCP	
+1.1	पण	CC	<fs af='पण,avy,,,,,,'>|<fs af='पण,avy,,,,,,'>|<fs af='पण,n,m,sg,,d,,'>|<fs af='पण,n,m,pl,,d,,'>
+	))		
+2	((	NP	
+2.1	ठाणे	NNP	<fs af='ठाण,n,n,pl,,d,,े'>|<fs af='ठाणा,n,m,pl,,d,,े'>|<fs af='ठाणे,n,n,sg,,d,,'>
+2.2	खाडीलगतची	NNP	<fs af='खाडी,n,f,sg,,o,ची,लगत_ची'>
+	))		
+3	((	NP	
+3.1	ही	DEM	<fs af='ही,avy,,,,,,'>|<fs af='ही,pn,,,,,,'>|<fs af='ही,pn,f,sg,,d,,'>|<fs af='हे,pn,,,,,ी,ी'>
+3.2	जंगले	NN	<fs af='जंगल,n,n,pl,,d,,े'>
+	))		
+4	((	NP	
+4.1	मोठ्या	JJ	<fs af='मोठा,adj,f,pl,,d,,्या'>|<fs af='मोठा,adj,m,,,o,,्या'>|<fs af='मोठा,adj,f,,,o,,्या'>|<fs af='मोठा,adj,n,,,o,,्या'>|<fs af='मोठा,n,m,sg,,o,्या,्या'>|<fs af='मोठी,n,f,pl,,d,,्या'>|<fs af='मोठ्या,avy,,,,,,'>|<fs af='मोठ्या,avy,,,,,,'>
+4.2	प्रमाणावर	NN	<fs af='प्रमाण,n,n,sg,,o,वर,ा_वर'>|<fs af='प्रमाण,n,m,sg,,o,वर,ा_वर'>
+	))		
+5	((	VGF	
+5.1	तोडली	VM	<fs af='तोड,v,f,sg,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='तोड,v,n,pl,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='तोड,v,f,sg,,d,ली,ली' type='kr'>|<fs af='तोड,v,n,pl,,d,ली,ली' type='kr'>
+5.2	जात	VAUX	<fs af='जा,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='जा,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='जा,v,,,,,त,त' type='kr'>|<fs af='जा,v,,,,,ात,ात'>|<fs af='जा,v,,,,,त,त'>|<fs af='जा,v,,,,,ात,ात'>
+5.3	असल्याने	VM	<fs af='असला,pn,m,sg,,o,ने,्या_ने'>|<fs af='असली,pn,f,pl,,d,,्या_ने'>|<fs af='असले,pn,n,sg,,o,ने,्या_ने'>
+	))		
+6	((	CCP	
+6.1	व	CC	<fs af='व,avy,,,,,,'>|<fs af='व,n,m,sg,,d,,'>|<fs af='व,n,m,pl,,d,,'>
+	))		
+7	((	NP	
+7.1	त्याखालील	PRP	<fs af='ते,pn,n,sg,,o,ल,्या_खाली_ल'>|<fs af='ते,pn,n,sg,,o,ील,्या_खाल_ील'>|<fs af='तो,pn,m,sg,,o,ल,्या_खाली_ल'>|<fs af='तो,pn,m,sg,,o,ील,्या_खाल_ील'>
+	))		
+8	((	NP	
+8.1	जमिनीवर	NN	<fs af='जमीन,n,f,sg,,o,वर,ी_वर'>|<fs af='जमीन,n,f,pl,,d,,ी_वर'>
+	))		
+9	((	NP	
+9.1	अतिक्रमण	NN	<fs af='अतिक्रमण,n,n,sg,,d,,'>
+	))		
+10	((	VGNN	
+10.1	होत	VM	<fs af='हो,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='हो,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='हो,v,,,,,त,त' type='kr'>|<fs af='हो,v,,,,,त,त' type='kr'>
+10.2	असल्याने	VM	<fs af='असला,pn,m,sg,,o,ने,्या_ने'>|<fs af='असली,pn,f,pl,,d,,्या_ने'>|<fs af='असले,pn,n,sg,,o,ने,्या_ने'>
+	))		
+11	((	VGNF	
+11.1	येत्या	VM	<fs af='ये,v,f,pl,3,,त्या,त्या' t='pas' a='p' m='c' type='ak'>|<fs af='ये,v,,,,,त्या,त्या'>
+	))		
+12	((	NP	
+12.1	काळात	NN	<fs af='काळ,n,m,sg,,o,त,ा_त'>
+	))		
+13	((	NP	
+13.1	सुनामीसारखे	JJ	<fs af='सुनामीसारखे,unk,,,,,,'>
+13.2	संकट	NN	<fs af='संकट,n,n,sg,,d,,'>
+	))		
+14	((	VGNF	
+14.1	ओढवल्यास	VM	<fs af='ओढवल्यास,unk,,,,,,'>
+	))		
+15	((	NP	
+15.1	ठाणे	NNP	<fs af='ठाण,n,n,pl,,d,,े'>|<fs af='ठाणा,n,m,pl,,d,,े'>|<fs af='ठाणे,n,n,sg,,d,,'>
+15.2	शहर	NNP	<fs af='शहर,n,n,sg,,d,,'>
+15.3	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+16	((	NP	
+16.1	कळवा	NNP	<fs af='कळव,v,,pl,2,,ा,ा' m='i' type='ak'>
+	))		
+17	((	CCP	
+17.1	आणि	CC	<fs af='आणि,avy,,,,,,'>
+	))		
+18	((	NP	
+18.1	मुंब्रा	NNP	<fs af='मुंब्रा,unk,,,,,,'>
+	))		
+19	((	NP	
+19.1	येथील	NST	<fs af='येथ,pn,,,,,ील,ील'>
+	))		
+20	((	NP	
+20.1	काही	QF	<fs af='काही,avy,,,,,,'>|<fs af='काही,avy,,,,,,'>
+20.2	भागाला	NN	<fs af='भाग,n,m,sg,,o,ला,ा_ला'>
+	))		
+21	((	NP	
+21.1	याचा	PRP	<fs af='हा,pn,m,sg,,o,चा,या_चा'>|<fs af='ही,pn,f,sg,,o,चा,या_चा'>|<fs af='हे,pn,n,sg,,o,चा,या_चा'>
+	))		
+22	((	NP	
+22.1	मोठा	JJ	<fs af='मोठा,avy,,,,,,'>|<fs af='मोठा,avy,,,,,,'>|<fs af='मोठा,adj,m,sg,,d,,'>|<fs af='मोठा,n,m,sg,,d,,'>
+22.2	फटका	NN	<fs af='फटक,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='फटका,n,m,sg,,d,,'>
+	))		
+23	((	VGNN	
+23.1	बसण्याची	VM	<fs af='बस,v,n,sg,,o,ची,ण्या_ची' kr='n_kr' type='kr'>|<fs af='बस,v,,,,,ची,ण्या_ची' kr='n_kr'>
+	))		
+24	((	NP	
+24.1	शक्‍यता	NN	<fs af='शक्‍यता,n,,,,,,'>|<fs af='शक्‍यता,n,,sg,,o,ा,ा'>
+	))		
+25	((	VGF	
+25.1	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+25.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2470">
+1	((	NP	
+1.1	बाळकूमपासून	NN	<fs af='बाळकूमपासून,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	थेट	JJ	<fs af='थेट,adv,,,,,,'>|<fs af='थेट,n,,,,,,'>
+2.2	नागला	NN	<fs af='नागला,unk,,,,,,'>
+	))		
+3	((	NP	
+3.1	बंदरापर्यंत	NN	<fs af='बंदर,n,n,sg,,o,पर्यंत,ा_पर्यंत'>
+	))		
+4	((	CCP	
+4.1	व	CC	<fs af='व,avy,,,,,,'>|<fs af='व,n,m,sg,,d,,'>|<fs af='व,n,m,pl,,d,,'>
+	))		
+5	((	NP	
+5.1	ठाणे	NNP	<fs af='ठाण,n,n,pl,,d,,े'>|<fs af='ठाणा,n,m,pl,,d,,े'>|<fs af='ठाणे,n,n,sg,,d,,'>
+5.2	-	SYM	<fs af=',punc,,,,,,'>
+	))		
+6	((	VGNF	
+6.1	कळव्यापासून	VM	<fs af='कळव्यापासून,unk,,,,,,'>
+	))		
+7	((	NP	
+7.1	मुंब्र्यापर्यंत	NN	<fs af='मुंब्र्यापर्यंत,unk,,,,,,'>
+	))		
+8	((	VGNF	
+8.1	पसरलेल्या	VM	<fs af='पसर,v,f,pl,,d,लेल्या,लेल्या' type='kr'>|<fs af='पसर,v,,,,o,लेल्या,लेल्या' type='kr'>
+	))		
+9	((	NP	
+9.1	खाडीवर	NN	<fs af='खाडी,n,f,sg,,o,वर,वर'>
+	))		
+10	((	NP	
+10.1	चारी	JJ	<fs af='चार,v,m,sg,1,,ी,ी' t='pas' a='h' type='ak'>|<fs af='चार,v,m,sg,3,,ी,ी' t='pas' a='h' type='ak'>
+10.2	बाजूंनी	NN	<fs af='बाजू,n,f,pl,,o,नी,ं_नी'>
+	))		
+11	((	NP	
+11.1	माणसांच्या	NN	<fs af='माणूस,n,m,pl,,o,च्या,ां_च्या'>|<fs af='माणूस,n,n,pl,,o,च्या,ां_च्या'>|<fs af='माणूस,n,m,pl,,o,च्या,ां_च्या'>
+	))		
+12	((	NP	
+12.1	स्वार्थी	JJ	<fs af='स्वार्थी,n,,,,,,'>
+12.2	वृत्तीने	NN	<fs af='वृत्ती,n,,sg,,o,ने,ने'>
+	))		
+13	((	NP	
+13.1	हल्ला	NN	<fs af='हल्ला,n,m,sg,,d,,'>
+	))		
+14	((	VGF	
+14.1	चढविला	VM	<fs af='चढव,v,,,,,िला,िला'>
+14.2	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+14.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2471">
+1	((	RBP	
+1.1	पुन्हा	RB	<fs af='पुन्हा,adv,,,,,,'>
+	))		
+2	((	NP	
+2.1	जेव्हा	CC	<fs af='जेव्हा,adv,,,,,,'>|<fs af='जेव्हा,avy,,,,,,'>|<fs af='जेव्हा,pn,,sg,,d,,'>|<fs af='जेव्हा,pn,,sg,,o,,'>|<fs af='जेव्हा,pn,,sg,,d,,'>
+	))		
+3	((	VGNF	
+3.1	पाऊसपाय	VM	<fs af='पाऊसपाय,unk,,,,,,'>
+	))		
+4	((	NP	
+4.1	रौद्र	JJ	<fs af='रौद्र,n,,,,,,'>
+4.2	रूप	NN	<fs af='रूप,n,n,sg,,d,,'>
+	))		
+5	((	NP	
+5.1	धारण	NN	<fs af='धारण,unk,,,,,,'>
+	))		
+6	((	VGF	
+6.1	करतील	VM	<fs af='कर,v,,pl,3,,तील,तील' t='fut' type='ak'>|<fs af='कर,n,,,,,तील,तील'>
+	))		
+7	((	CCP	
+7.1	तेव्हा	CC	<fs af='तेव्हा,avy,,,,,,'>|<fs af='तेव्हा,pn,,sg,,d,,'>|<fs af='तेव्हा,pn,,sg,,o,,'>|<fs af='तेव्हा,pn,,sg,,d,,'>
+	))		
+8	((	NP	
+8.1	ठाणे	NNP	<fs af='ठाण,n,n,pl,,d,,े'>|<fs af='ठाणा,n,m,pl,,d,,े'>|<fs af='ठाणे,n,n,sg,,d,,'>
+8.2	शहर	NNP	<fs af='शहर,n,n,sg,,d,,'>
+8.3	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+9	((	NP	
+9.1	कळवा	NNP	<fs af='कळव,v,,pl,2,,ा,ा' m='i' type='ak'>
+9.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+10	((	NP	
+10.1	मुंब्रा	NNP	<fs af='मुंब्रा,unk,,,,,,'>
+	))		
+11	((	NP	
+11.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+11.2	भागात	NN	<fs af='भाग,n,m,sg,,o,त,ा_त'>
+	))		
+12	((	NP	
+12.1	हाहाकार	NN	<fs af='हाहाकार,n,m,sg,,d,,'>|<fs af='हाहाकार,n,m,pl,,d,,'>
+	))		
+13	((	VGNN	
+13.1	उडण्याची	VM	<fs af='उड,v,n,sg,,o,ची,ण्या_ची' kr='n_kr' type='kr'>
+	))		
+14	((	NP	
+14.1	भीती	NN	<fs af='भीती,n,,,,,,'>|<fs af='भीती,n,,sg,,o,ी,ी'>
+	))		
+15	((	VGF	
+15.1	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+15.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2472">
+1	((	NP	
+1.1	महापालिकेने	NN	<fs af='महापालिका,n,,sg,,o,ने,े_ने'>
+	))		
+2	((	NP	
+2.1	गटारे	NN	<fs af='गटार,n,n,pl,,d,,े'>
+	))		
+3	((	CCP	
+3.1	व	CC	<fs af='व,avy,,,,,,'>|<fs af='व,n,m,sg,,d,,'>|<fs af='व,n,m,pl,,d,,'>
+	))		
+4	((	NP	
+4.1	नाले	NN	<fs af='नाला,n,m,pl,,d,,े'>
+	))		
+5	((	NP	
+5.1	कितीही	NN	<fs af='किती,pn,,,,,ही,ही'>|<fs af='किती,n,,,,,ही,ही'>
+	))		
+6	((	JJP	
+6.1	साफ	JJ	<fs af='साफ,n,,,,,,'>
+	))		
+7	((	VGF	
+7.1	केले	VM	<fs af='कर,v,m,sg,1,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,ले,े_ले' t='pas' a='h' type='ak'>|<fs af='कर,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='कर,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='कर,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='कर,v,n,sg,,d,ले,ले' type='kr'>|<fs af='कर,v,m,pl,,d,ले,ले' type='kr'>
+	))		
+8	((	NP	
+8.1	तरी	CC	<fs af='तर,v,m,sg,1,,ी,ी' t='pas' a='h' type='ak'>|<fs af='तर,v,m,sg,3,,ी,ी' t='pas' a='h' type='ak'>|<fs af='तर,n,f,sg,,o,ी,ी'>|<fs af='तर,n,f,pl,,d,,ी'>|<fs af='तरी,avy,,,,,,'>|<fs af='तरी,avy,,,,,,'>
+	))		
+9	((	NP	
+9.1	खारफुटीची	NN	<fs af='खारफुटीची,unk,,,,,,'>
+	))		
+10	((	VGNN	
+10.1	जंगले	VM	<fs af='जंगल,n,n,pl,,d,,े'>
+	))		
+11	((	NP	
+11.1	अशाच	JJ	<fs af='अशी,pn,f,pl,,d,,ा_च'>|<fs af='असा,pn,m,sg,,o,च,शा_च'>|<fs af='असे,pn,n,sg,,o,च,शा_च'>
+11.2	पद्धतीने	NN	<fs af='पद्धत,n,f,sg,,o,ने,ी_ने'>|<fs af='पद्धत,n,f,pl,,d,,ी_ने'>|<fs af='पद्धती,n,,,,,ने,ने'>
+	))		
+12	((	CCP	
+12.1	व	CC	<fs af='व,avy,,,,,,'>|<fs af='व,n,m,sg,,d,,'>|<fs af='व,n,m,pl,,d,,'>
+	))		
+13	((	NP	
+13.1	याच	DEM	<fs af='या,pn,,,,,च,च'>|<fs af='या,pn,,,,,च,च'>|<fs af='हा,pn,m,sg,,o,च,या_च'>|<fs af='ही,pn,f,sg,,o,च,या_च'>|<fs af='हे,pn,n,sg,,o,च,या_च'>
+13.2	गतीने	NN	<fs af='गत,n,f,sg,,o,ने,ी_ने'>|<fs af='गत,n,f,pl,,d,,ी_ने'>|<fs af='गती,n,,,,,ने,ने'>
+	))		
+14	((	JJP	
+14.1	नष्ट	JJ	<fs af='नष्ट,n,,,,,,'>
+	))		
+15	((	VGF	
+15.1	होत	VM	<fs af='हो,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='हो,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='हो,v,,,,,त,त' type='kr'>|<fs af='हो,v,,,,,त,त' type='kr'>
+15.2	गेली	VM	<fs af='जा,v,,,,,ली,ली'>|<fs af='जा,v,f,sg,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='जा,v,n,pl,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='जा,v,f,sg,,d,ली,ली' type='kr'>|<fs af='जा,v,n,pl,,d,ली,ली' type='kr'>
+	))		
+16	((	CCP	
+16.1	तर	CC	<fs af='तर,avy,,,,,,'>|<fs af='तर,avy,,,,,,'>|<fs af='तर,v,,sg,2,,,' m='i'>|<fs af='तर,n,f,sg,,d,,'>
+	))		
+17	((	NP	
+17.1	अतिवृष्टीच्यावेळी	JJ	<fs af='अतिवृष्टीच्यावेळी,unk,,,,,,'>
+17.2	समुद्राला	NN	<fs af='समुद्र,n,m,sg,,o,ला,ा_ला'>
+	))		
+18	((	VGNN	
+18.1	आलेली	VM	<fs af='आलेला,adj,f,sg,,d,,ी'>|<fs af='आलेला,adj,n,pl,,d,,ी'>|<fs af='ये,v,f,sg,,d,लेली,लेली' type='kr'>|<fs af='ये,v,n,pl,,d,लेली,लेली' type='kr'>|<fs af='ये,v,f,pl,2,d,लेली,आ_लेली' m='i' type='ak'>|<fs af='ये,v,n,pl,2,d,लेली,आ_लेली' m='i' type='ak'>|<fs af='ये,v,,,,,लेली,आ_लेली'>
+	))		
+19	((	NP	
+19.1	साधी	NN	<fs af='साध,v,m,sg,1,,ी,ी' t='pas' a='h' type='ak'>|<fs af='साध,v,m,sg,3,,ी,ी' t='pas' a='h' type='ak'>|<fs af='साधा,adj,f,sg,,d,,ी'>|<fs af='साधा,adj,n,pl,,d,,ी'>
+	))		
+20	((	VGNF	
+20.1	भरतीही	VM	<fs af='भरती,n,f,sg,,o,ही,ही'>
+	))		
+21	((	NP	
+21.1	ठाणेकरांची	NN	<fs af='ठाणेकरांची,unk,,,,,,'>
+	))		
+22	((	NP	
+22.1	गाळण	NN	<fs af='गाळण,unk,,,,,,'>
+	))		
+23	((	VGF	
+23.1	उडवू	VM	<fs af='उडव,v,,pl,1,,ू,ू' t='fut' type='ak'>|<fs af='उडव,v,,pl,1,,ू,ू' m='o' type='ak'>|<fs af='उडव,v,f,pl,1,,ू,ू' t='pas' a='h' type='ak'>|<fs af='उडव,v,,,,,ू,ू' type='kr'>
+23.2	शकते	VAUX	<fs af='शक,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='शक,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='शक,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='शक,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='शक,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='शक,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='शक,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='शक,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='शक,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='शक,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='शक,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='शक,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>
+23.3	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+24	((	NP	
+24.1	असे	DEM	<fs af='अस,v,m,sg,1,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,3,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,1,,े,े' t='pas' a='h' type='ak'>|<fs af='अस,v,m,sg,3,,े,े' t='pas' a='h' type='ak'>|<fs af='असा,pn,m,pl,,d,,े'>|<fs af='असे,v,,sg,2,,,' m='i'>|<fs af='असे,pn,n,sg,,d,,'>
+24.2	जाणकारांचे	NN	<fs af='जाणकार,n,,sg,,o,चे,ां_चे'>
+	))		
+25	((	NP	
+25.1	मत	NN	<fs af='मत,n,n,sg,,d,,'>|<fs af='मत,n,f,sg,,d,,'>
+	))		
+26	((	VGF	
+26.1	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+26.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2473">
+1	((	NP	
+1.1	कोपरी	NNP	<fs af='कोपर,n,,,,,ी,ी'>
+	))		
+2	((	NP	
+2.1	येथील	NST	<fs af='येथ,pn,,,,,ील,ील'>
+	))		
+3	((	NP	
+3.1	बिम्स	XC	<fs af='बिम्स,unk,,,,,,'>
+3.2	पॅराडाइज	XC	<fs af='पॅराडाइज,unk,,,,,,'>
+3.3	शाळेच्या	NN	<fs af='शाळा,n,f,sg,,o,च्या,े_च्या'>
+	))		
+4	((	NP	
+4.1	मागे	NST	<fs af='माग,nst,,,,,े,े'>|<fs af='माग,v,m,sg,1,,े,े' t='pas' a='h' type='ak'>|<fs af='माग,v,m,sg,3,,े,े' t='pas' a='h' type='ak'>|<fs af='मागे,nst,,,,,,'>
+	))		
+5	((	VGNF	
+5.1	असलेले	VM	<fs af='अस,v,n,sg,,d,लेले,लेले' type='kr'>|<fs af='अस,v,m,pl,,d,लेले,लेले' type='kr'>|<fs af='अस,v,,,,,लेले,लेले'>
+	))		
+6	((	NP	
+6.1	खारफुटीचे	NN	<fs af='खारफुटीचे,unk,,,,,,'>
+	))		
+7	((	NP	
+7.1	जंगल	NN	<fs af='जंगल,n,n,sg,,d,,'>
+	))		
+8	((	VGNN	
+8.1	तोडण्यासाठी	VM	<fs af='तोड,v,,,,,साठी,ण्यासाठी' kr='n_kr'>
+	))		
+9	((	NP	
+9.1	काही	QF	<fs af='काही,avy,,,,,,'>|<fs af='काही,avy,,,,,,'>
+9.2	महिला	NN	<fs af='महिला,n,f,sg,,d,,'>|<fs af='महिला,n,f,pl,,d,,'>
+	))		
+10	((	NP	
+10.1	दररोज	NST	<fs af='दररोज,n,,,,,,'>
+	))		
+11	((	NP	
+11.1	पहाटे	NN	<fs af='पहाट,n,f,sg,,o,े,े'>
+	))		
+12	((	VGF	
+12.1	येतात	VM	<fs af='ये,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='ये,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='ये,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='ये,v,,,,,तात,तात'>
+12.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2474">
+1	((	NP	
+1.1	जळाऊ	JJ	<fs af='जळ,v,,pl,1,,ऊ,ऊ' t='fut' type='ak'>|<fs af='जळ,v,,pl,1,,ऊ,ऊ' m='o' type='ak'>|<fs af='जळ,v,f,pl,1,,ऊ,ऊ' t='pas' a='h' type='ak'>|<fs af='जळ,v,,,,,ऊ,ऊ' type='kr'>|<fs af='जळाऊ,n,,,,,,'>
+1.2	लाकूड	NN	<fs af='लाकूड,n,n,sg,,d,,'>
+	))		
+2	((	CCP	
+2.1	म्हणून	CC	<fs af='म्हण,v,,,,,ून,ून' type='kr'>|<fs af='म्हणून,avy,,,,,,'>
+	))		
+3	((	NP	
+3.1	त्याच्या	PRP	<fs af='ते,pn,n,sg,,o,च्या,्या_च्या'>|<fs af='तो,pn,m,sg,,o,च्या,्या_च्या'>
+	))		
+4	((	NP	
+4.1	मोळ्या	NN	<fs af='मोळा,n,m,sg,,o,्या,्या'>|<fs af='मोळी,n,f,pl,,d,,्या'>
+	))		
+5	((	NP	
+5.1	बांधून	VM	<fs af='बांध,v,,,,,ून,ून' type='kr'>
+	))		
+6	((	VGNF	
+6.1	घेऊन	VM	<fs af='घे,v,,,,,ऊन,ऊन' type='kr'>|<fs af='घे,v,,,,,ऊन,ऊन'>
+6.2	जाणाऱ्या	VAUX	<fs af='जाण,v,,pl,2,,ऱ्या,ा_ऱ्या' m='i' type='ak'>
+	))		
+7	((	NP	
+7.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+7.2	महिलांना	NN	<fs af='महिला,n,f,pl,,o,ना,ां_ना'>
+	))		
+8	((	NP	
+8.1	तेथील	PRP	<fs af='तेथ,pn,,,,,ील,ील'>
+	))		
+9	((	NP	
+9.1	काही	QF	<fs af='काही,avy,,,,,,'>|<fs af='काही,avy,,,,,,'>
+9.2	नागरिकांनी	NN	<fs af='नागरिक,n,m,pl,,o,नी,ां_नी'>
+	))		
+10	((	VGF	
+10.1	रोखले	VM	<fs af='रोख,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='रोख,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='रोख,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='रोख,v,n,sg,,d,ले,ले' type='kr'>|<fs af='रोख,v,m,pl,,d,ले,ले' type='kr'>
+10.2	होते	VM	<fs af='हो,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='हो,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='हो,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='हो,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='हो,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='हो,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='हो,v,,,,,ते,ते'>
+10.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2475">
+1	((	NP	
+1.1	त्यानंतर	PRP	<fs af='ते,pn,n,sg,,o,नंतर,्या_नंतर'>|<fs af='तो,pn,m,sg,,o,नंतर,्या_नंतर'>
+	))		
+2	((	NP	
+2.1	ते	PRP	<fs af='ते,avy,,,,,,'>|<fs af='ते,avy,,,,,,'>|<fs af='ते,pn,n,sg,,d,,'>|<fs af='ते,pn,,,,,,'>|<fs af='तो,pn,m,pl,,d,,े'>|<fs af='तो,pn,,,,,े,े'>
+	))		
+3	((	JJP	
+3.1	बंद	JJ	<fs af='बंद,n,m,sg,,d,,'>|<fs af='बंद,n,m,pl,,d,,'>|<fs af='बंद,n,,,,,,'>
+	))		
+4	((	VGF	
+4.1	झाले	VM	<fs af='हो,v,,,,,ले,ले'>|<fs af='हो,v,f,sg,1,,ले,झा_ले' t='pas' a='p' type='ak'>|<fs af='हो,v,n,sg,3,,ले,झा_ले' t='pas' a='p' type='ak'>|<fs af='हो,v,m,pl,3,,ले,झा_ले' t='pas' a='p' type='ak'>|<fs af='हो,v,n,sg,,d,ले,झा_ले' type='kr'>|<fs af='हो,v,m,pl,,d,ले,झा_ले' type='kr'>|<fs af='हो,v,n,sg,,d,ले,झा_ले' type='kr'>|<fs af='हो,v,m,pl,,d,ले,झा_ले' type='kr'>
+4.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2476">
+1	((	NP	
+1.1	आता	NST	<fs af='आता,n,,,,,,'>|<fs af='ये,v,m,pl,2,,ता,ता' t='pre' a='h' type='ak'>|<fs af='ये,v,f,pl,2,,ता,ता' t='pre' a='h' type='ak'>|<fs af='ये,v,m,pl,2,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='ये,v,f,pl,2,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='ये,v,m,sg,3,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='ये,v,,,,,ता,ता' type='kr'>
+	))		
+2	((	RBP	
+2.1	पुन्हा	RB	<fs af='पुन्हा,adv,,,,,,'>
+	))		
+3	((	NP	
+3.1	ही	DEM	<fs af='ही,avy,,,,,,'>|<fs af='ही,pn,,,,,,'>|<fs af='ही,pn,f,sg,,d,,'>|<fs af='हे,pn,,,,,ी,ी'>
+3.2	तोड	NN	<fs af='तोड,v,,sg,2,,,' m='i'>|<fs af='तोड,n,f,sg,,d,,'>
+	))		
+4	((	JJP	
+4.1	सुरू	JJ	<fs af='सुरू,n,,,,,,'>
+	))		
+5	((	VGF	
+5.1	झाली	VM	<fs af='हो,v,,,,,ली,ली'>|<fs af='हो,v,f,sg,3,,ली,झा_ली' t='pas' a='p' type='ak'>|<fs af='हो,v,n,pl,3,,ली,झा_ली' t='pas' a='p' type='ak'>|<fs af='हो,v,f,sg,,d,ली,झा_ली' type='kr'>|<fs af='हो,v,n,pl,,d,ली,झा_ली' type='kr'>|<fs af='हो,v,f,sg,,d,ली,झा_ली' type='kr'>|<fs af='हो,v,n,pl,,d,ली,झा_ली' type='kr'>
+5.2	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+5.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2477">
+1	((	NP	
+1.1	मोठमोठे	JJ	<fs af='मोठमोठे,unk,,,,,,'>
+1.2	नेते	NN	<fs af='ने,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='ने,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='ने,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='ने,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='ने,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='ने,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='ने,v,,,,,ते,ते'>|<fs af='नेता,n,m,pl,,d,,े'>
+	))		
+2	((	NP	
+2.1	जिथे	PRP	<fs af='जिथ,pn,,,,,े,े'>
+	))		
+3	((	NP	
+3.1	माथा	NN	<fs af='माथा,n,m,sg,,d,,'>
+	))		
+4	((	VGF	
+4.1	टेकण्यासाठी	VM	<fs af='टेक,v,,,,,साठी,ण्यासाठी' kr='n_kr'>
+4.2	जातात	VM	<fs af='जा,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='जा,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='जा,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='जा,v,,,,,तात,तात'>
+4.3	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	तो	PRP	<fs af='तो,pp,,,,,,'>|<fs af='तो,pn,m,sg,,d,,'>|<fs af='तो,pn,,,,,,'>
+	))		
+6	((	NP	
+6.1	स्वामी	NNP	<fs af='स्वामी,n,m,sg,,d,,'>|<fs af='स्वामी,n,m,pl,,d,,'>|<fs af='स्वामी,n,,,,,,'>
+6.2	समर्थांचा	NNP	<fs af='समर्थांचा,unk,,,,,,'>
+6.3	मठही	NNP	<fs af='मठ,n,,,,,ही,ही'>
+	))		
+7	((	NP	
+7.1	येथे	DEM	<fs af='येथ,pn,,,,,े,े'>
+	))		
+8	((	NP	
+8.1	थेट	JJ	<fs af='थेट,adv,,,,,,'>|<fs af='थेट,n,,,,,,'>
+8.2	खाडीच्या	NN	<fs af='खाडी,n,f,sg,,o,च्या,च्या'>
+	))		
+9	((	NP	
+9.1	किनाऱ्यावरच	NN	<fs af='किनाऱ्यावरच,unk,,,,,,'>
+	))		
+10	((	VGF	
+10.1	बांधण्यात	VM	<fs af='बांध,v,,,,,ण्यात,ण्यात'>
+10.2	आला	VM	<fs af='ये,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='ये,v,m,sg,,d,ला,ला' type='kr'>|<fs af='ये,v,m,pl,2,,ला,आ_ला' t='pas' a='p' m='i' type='ak'>|<fs af='ये,v,m,pl,2,d,ला,आ_ला' m='i' type='ak'>|<fs af='ये,v,,,,,ला,आ_ला'>
+10.3	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+10.4	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2478">
+1	((	NP	
+1.1	त्याच्या	PRP	<fs af='ते,pn,n,sg,,o,च्या,्या_च्या'>|<fs af='तो,pn,m,sg,,o,च्या,्या_च्या'>
+	))		
+2	((	NP	
+2.1	आजूबाजूला	NST	<fs af='आजूबाजूला,unk,,,,,,'>
+	))		
+3	((	RBP	
+3.1	हळूहळू	RB	<fs af='हळूहळू,adv,,,,,,'>
+	))		
+4	((	NP	
+4.1	चार	QC	<fs af='चार,num,,,,,,'>|<fs af='चार,v,,sg,2,,,' m='i'>|<fs af='चार,n,m,sg,,d,,'>|<fs af='चार,n,m,pl,,d,,'>|<fs af='चार,n,,,,,,'>
+4.2	निवासी	JJ	<fs af='निव,v,m,pl,2,,ी,ा_स_ी' t='pas' a='h' m='i' type='ak'>|<fs af='निव,v,m,pl,2,,ी,ा_स_ी' t='pas' a='h' m='i' type='ak'>|<fs af='निवासी,n,m,sg,,d,,'>|<fs af='निवासी,n,m,pl,,d,,'>
+4.3	चाळी	NN	<fs af='चाळ,v,m,sg,1,,ी,ी' t='pas' a='h' type='ak'>|<fs af='चाळ,v,m,sg,3,,ी,ी' t='pas' a='h' type='ak'>|<fs af='चाळ,n,,,,,ी,ी'>|<fs af='चाळ,n,f,sg,,o,ी,ी'>|<fs af='चाळ,n,f,pl,,d,,ी'>
+	))		
+5	((	NP	
+5.1	बांधल्या	NN	<fs af='बांध,v,f,pl,3,,ल्या,ल्या' t='pas' a='p' type='ak'>|<fs af='बांध,v,f,pl,,d,ल्या,ल्या' type='kr'>|<fs af='बांध,v,,,,o,ल्या,ल्या' type='kr'>
+	))		
+6	((	VGF	
+6.1	गेल्या	VM	<fs af='जा,v,,,,,ल्या,ल्या'>|<fs af='जा,v,f,pl,3,,ल्या,ल्या' t='pas' a='p' type='ak'>|<fs af='जा,v,f,pl,,d,ल्या,ल्या' type='kr'>|<fs af='जा,v,,,,o,ल्या,ल्या' type='kr'>
+6.2	आहेत	VM	<fs af='आहे,v,,pl,3,,त,त' t='pre' a='s' type='ak'>
+6.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2479">
+1	((	NP	
+1.1	संतापाची	NN	<fs af='संताप,n,m,sg,,o,ची,ा_ची'>
+1.2	गोष्ट	NN	<fs af='गोष्ट,n,f,sg,,d,,'>
+1.3	म्हणजे	UT	<fs af='म्हणजे,avy,,,,,,'>
+1.4	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	काही	QF	<fs af='काही,avy,,,,,,'>|<fs af='काही,avy,,,,,,'>
+2.2	महिन्यांपूर्वी	NN	<fs af='महिना,n,m,pl,,o,पूर्वी,्यां_पूर्वी'>
+	))		
+3	((	NP	
+3.1	याच	DEM	<fs af='या,pn,,,,,च,च'>|<fs af='या,pn,,,,,च,च'>|<fs af='हा,pn,m,sg,,o,च,या_च'>|<fs af='ही,pn,f,sg,,o,च,या_च'>|<fs af='हे,pn,n,sg,,o,च,या_च'>
+3.2	भागात	NN	<fs af='भाग,n,m,sg,,o,त,ा_त'>
+	))		
+4	((	NP	
+4.1	पालिकेच्या	NN	<fs af='पालिका,n,,sg,,o,च्या,े_च्या'>
+	))		
+5	((	NP	
+5.1	अधिकाऱ्यांनी	NN	<fs af='अधिकाऱ्यांनी,unk,,,,,,'>
+	))		
+6	((	NP	
+6.1	वागळे	NN	<fs af='वागळे,unk,,,,,,'>
+	))		
+7	((	NP	
+7.1	इस्टेट	NNP	<fs af='इस्टेट,unk,,,,,,'>
+	))		
+8	((	NP	
+8.1	येथून	PRP	<fs af='येथ,pn,,,,,ून,ून'>
+	))		
+9	((	VGNF	
+9.1	आणलेला	VM	<fs af='आण,v,m,sg,,d,लेला,लेला' kr='l_kr' type='kr'>|<fs af='आण,v,,,,,लेला,लेला' kr='l_kr'>
+	))		
+10	((	NP	
+10.1	कचरा	NN	<fs af='कचर,v,,pl,2,,ा,ा' m='i' type='ak'>
+	))		
+11	((	VGF	
+11.1	टाकला	VM	<fs af='टाक,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='टाक,v,m,sg,,d,ला,ला' type='kr'>|<fs af='टाक,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>
+11.2	होता	VAUX	<fs af='हो,v,m,pl,2,,ता,ता' t='pre' a='h' type='ak'>|<fs af='हो,v,f,pl,2,,ता,ता' t='pre' a='h' type='ak'>|<fs af='हो,v,m,pl,2,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='हो,v,f,pl,2,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='हो,v,m,sg,3,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='हो,v,,,,,ता,ता' type='kr'>|<fs af='हो,v,,,,,ता,ता'>
+11.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2480">
+1	((	NP	
+1.1	मठाकडे	NNP	<fs af='मठ,n,m,sg,,o,कडे,ा_कडे'>
+	))		
+2	((	VGNF	
+2.1	जाणाऱ्या	VM	<fs af='जाण,v,,pl,2,,ऱ्या,ा_ऱ्या' m='i' type='ak'>
+	))		
+3	((	NP	
+3.1	रस्त्याच्या	NN	<fs af='रस्ता,n,m,sg,,o,च्या,्या_च्या'>
+	))		
+4	((	NP	
+4.1	रुंदीकरणाला	NN	<fs af='रुंदीकरणाला,unk,,,,,,'>
+	))		
+5	((	NP	
+5.1	वाव	NN	<fs af='वाव,n,m,sg,,d,,'>|<fs af='वाव,n,m,pl,,d,,'>
+	))		
+6	((	VGF	
+6.1	मिळावा	VM	<fs af='मिळ,v,,,,,वा,वा'>|<fs af='मिळ,v,m,sg,1,,ावा,ावा' m='o' type='ak'>|<fs af='मिळ,v,m,sg,3,,ावा,ावा' m='o' type='ak'>|<fs af='मिळ,v,,pl,2,,ा,व_ा' m='i' type='ak'>|<fs af='मिळ,v,,,,,वा,वा'>|<fs af='मिळ,v,m,sg,1,,ावा,ावा' m='o' type='ak'>|<fs af='मिळ,v,m,sg,3,,ावा,ावा' m='o' type='ak'>|<fs af='मिळ,v,,pl,2,,ा,व_ा' m='i' type='ak'>|<fs af='मिळाव,v,,pl,2,,ा,ा' m='i' type='ak'>
+	))		
+7	((	NP	
+7.1	यासाठी	PRP	<fs af='हा,pn,m,sg,,o,साठी,या_साठी'>|<fs af='ही,pn,f,sg,,o,साठी,या_साठी'>|<fs af='हे,pn,n,sg,,o,साठी,या_साठी'>
+	))		
+8	((	NP	
+8.1	ही	DEM	<fs af='ही,avy,,,,,,'>|<fs af='ही,pn,,,,,,'>|<fs af='ही,pn,f,sg,,d,,'>|<fs af='हे,pn,,,,,ी,ी'>
+8.2	खेळी	NN	<fs af='खेळ,v,m,sg,1,,ी,ी' t='pas' a='h' type='ak'>|<fs af='खेळ,v,m,sg,3,,ी,ी' t='pas' a='h' type='ak'>
+	))		
+9	((	VGNN	
+9.1	खेळली	VM	<fs af='खेळ,v,f,sg,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='खेळ,v,n,pl,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='खेळ,v,f,sg,,d,ली,ली' type='kr'>|<fs af='खेळ,v,n,pl,,d,ली,ली' type='kr'>
+9.2	जात	VAUX	<fs af='जा,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='जा,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='जा,v,,,,,त,त' type='kr'>|<fs af='जा,v,,,,,ात,ात'>|<fs af='जा,v,,,,,त,त'>|<fs af='जा,v,,,,,ात,ात'>
+9.3	असल्याची	VAUX	<fs af='असला,pn,m,sg,,o,ची,्या_ची'>|<fs af='असली,pn,f,pl,,d,,्या_ची'>|<fs af='असले,pn,n,sg,,o,ची,्या_ची'>
+	))		
+10	((	NP	
+10.1	चर्चा	NN	<fs af='चर्च,n,n,sg,,o,ा,ा'>|<fs af='चर्चा,n,f,sg,,d,,'>|<fs af='चर्चा,n,f,pl,,d,,'>
+	))		
+11	((	NP	
+11.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+11.2	भागात	NN	<fs af='भाग,n,m,sg,,o,त,ा_त'>
+	))		
+12	((	VGF	
+12.1	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+12.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2481">
+1	((	NP	
+1.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+1.2	जमिनीवरील	NN	<fs af='जमीन,n,f,sg,,o,ल,ी_वरी_ल'>|<fs af='जमीन,n,f,pl,,d,,ी_वरी_ल'>|<fs af='जमीन,n,f,sg,,o,ील,ी_वर_ील'>|<fs af='जमीन,n,f,pl,,d,,ी_वर_ील'>
+	))		
+2	((	NP	
+2.1	खारफुटीची	NN	<fs af='खारफुटीची,unk,,,,,,'>
+	))		
+3	((	VGNN	
+3.1	जंगले	VM	<fs af='जंगल,n,n,pl,,d,,े'>
+	))		
+4	((	NP	
+4.1	मोठ्या	JJ	<fs af='मोठा,adj,f,pl,,d,,्या'>|<fs af='मोठा,adj,m,,,o,,्या'>|<fs af='मोठा,adj,f,,,o,,्या'>|<fs af='मोठा,adj,n,,,o,,्या'>|<fs af='मोठा,n,m,sg,,o,्या,्या'>|<fs af='मोठी,n,f,pl,,d,,्या'>|<fs af='मोठ्या,avy,,,,,,'>|<fs af='मोठ्या,avy,,,,,,'>
+4.2	प्रमाणावर	NN	<fs af='प्रमाण,n,n,sg,,o,वर,ा_वर'>|<fs af='प्रमाण,n,m,sg,,o,वर,ा_वर'>
+	))		
+5	((	JJP	
+5.1	नष्ट	JJ	<fs af='नष्ट,n,,,,,,'>
+	))		
+6	((	VGF	
+6.1	झाली	VM	<fs af='हो,v,,,,,ली,ली'>|<fs af='हो,v,f,sg,3,,ली,झा_ली' t='pas' a='p' type='ak'>|<fs af='हो,v,n,pl,3,,ली,झा_ली' t='pas' a='p' type='ak'>|<fs af='हो,v,f,sg,,d,ली,झा_ली' type='kr'>|<fs af='हो,v,n,pl,,d,ली,झा_ली' type='kr'>|<fs af='हो,v,f,sg,,d,ली,झा_ली' type='kr'>|<fs af='हो,v,n,pl,,d,ली,झा_ली' type='kr'>
+6.2	आहेत	VM	<fs af='आहे,v,,pl,3,,त,त' t='pre' a='s' type='ak'>
+6.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2482">
+1	((	NP	
+1.1	कळवा	NNP	<fs af='कळव,v,,pl,2,,ा,ा' m='i' type='ak'>
+1.2	पुलावरून	NNP	<fs af='पूल,n,m,sg,,o,ून,ा_वर_ून'>
+	))		
+2	((	VGNF	
+2.1	जाताना	VM	<fs af='जा,v,,,,,ताना,ताना' type='tn'>|<fs af='जा,v,,,,,ताना,ताना'>
+	))		
+3	((	NP	
+3.1	दोन्ही	QC	<fs af='दोन्ही,num,,,,,,'>
+3.2	बाजूंना	NN	<fs af='बाजू,n,f,pl,,o,ना,ं_ना'>
+	))		
+4	((	NP	
+4.1	पाहिल्यास	NN	<fs af='पाह,v,f,pl,3,,स,ल्या_स' t='pas' a='p' type='ak'>|<fs af='पाह,v,f,pl,,d,स,ल्या_स' type='kr'>|<fs af='पाह,v,,,,o,स,ल्या_स' type='kr'>|<fs af='पाह,v,,,,,स,िल्या_स'>|<fs af='पाह,v,f,pl,3,,स,ल्या_स' t='pas' a='p' type='ak'>|<fs af='पाह,v,,,,,स,िल्या_स'>
+	))		
+5	((	NP	
+5.1	खाडीकिनारी	NN	<fs af='खाडीकिनारी,unk,,,,,,'>
+	))		
+6	((	VGNF	
+6.1	असलेल्या	VM	<fs af='अस,v,f,pl,,d,लेल्या,लेल्या' type='kr'>|<fs af='अस,v,,,,o,लेल्या,लेल्या' type='kr'>|<fs af='अस,v,,,,,लेल्या,लेल्या'>
+	))		
+7	((	NP	
+7.1	खारफुटीच्या	NN	<fs af='खारफुटीच्या,unk,,,,,,'>
+	))		
+8	((	NP	
+8.1	जंगलांवर	NN	<fs af='जंगल,n,n,pl,,o,वर,ां_वर'>
+	))		
+9	((	NP	
+9.1	मोठ्या	JJ	<fs af='मोठा,adj,f,pl,,d,,्या'>|<fs af='मोठा,adj,m,,,o,,्या'>|<fs af='मोठा,adj,f,,,o,,्या'>|<fs af='मोठा,adj,n,,,o,,्या'>|<fs af='मोठा,n,m,sg,,o,्या,्या'>|<fs af='मोठी,n,f,pl,,d,,्या'>|<fs af='मोठ्या,avy,,,,,,'>|<fs af='मोठ्या,avy,,,,,,'>
+9.2	प्रमाणावर	NN	<fs af='प्रमाण,n,n,sg,,o,वर,ा_वर'>|<fs af='प्रमाण,n,m,sg,,o,वर,ा_वर'>
+	))		
+10	((	NP	
+10.1	अतिक्रमण	NN	<fs af='अतिक्रमण,n,n,sg,,d,,'>
+	))		
+11	((	VGNF	
+11.1	झालेले	VM	<fs af='हो,v,,,,,लेले,लेले'>|<fs af='हो,v,n,sg,,d,लेले,झा_लेले' type='kr'>|<fs af='हो,v,m,pl,,d,लेले,झा_लेले' type='kr'>|<fs af='हो,v,n,sg,,d,लेले,झा_लेले' type='kr'>|<fs af='हो,v,m,pl,,d,लेले,झा_लेले' type='kr'>
+	))		
+12	((	VGF	
+12.1	दिसते	VM	<fs af='दिस,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='दिस,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='दिस,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='दिस,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='दिस,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='दिस,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>
+12.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2483">
+1	((	NP	
+1.1	जागरूक	JJ	<fs af='जागरूक,n,,,,,,'>
+1.2	नागरिक	NN	<fs af='नागरिक,n,m,sg,,d,,'>|<fs af='नागरिक,n,m,pl,,d,,'>
+	))		
+2	((	CCP	
+2.1	आणि	CC	<fs af='आणि,avy,,,,,,'>
+	))		
+3	((	NP	
+3.1	जिज्ञासा	NN	<fs af='जिज्ञासा,unk,,,,,,'>
+3.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+4	((	NP	
+4.1	हरियाली	NNP	<fs af='हरियाली,unk,,,,,,'>
+4.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	होप	NNP	<fs af='होप,unk,,,,,,'>
+	))		
+6	((	NP	
+6.1	यांसारख्या	PRP	<fs af='हा,pn,,,,,सारख्या,यां_सारख्या'>|<fs af='ही,pn,f,pl,,o,सारख्या,यां_सारख्या'>|<fs af='हे,pn,n,pl,,o,सारख्या,यां_सारख्या'>
+	))		
+7	((	NP	
+7.1	संस्थांच्या	NN	<fs af='संस्था,n,f,pl,,o,च्या,ां_च्या'>
+	))		
+8	((	NP	
+8.1	सततच्या	NN	<fs af='सतत,adv,,,,,्या,च_्या'>
+	))		
+9	((	NP	
+9.1	पाठपुराव्यामुळे	NN	<fs af='पाठपुरावा,n,m,sg,,o,मुळे,्या_मुळे'>
+	))		
+10	((	NP	
+10.1	खारफुटीच्या	NN	<fs af='खारफुटीच्या,unk,,,,,,'>
+	))		
+11	((	NP	
+11.1	प्रश्‍नाकडे	NN	<fs af='प्रश्‍न,n,,sg,,o,कडे,ा_कडे'>
+	))		
+12	((	NP	
+12.1	ठाणे	XC	<fs af='ठाण,n,n,pl,,d,,े'>|<fs af='ठाणा,n,m,pl,,d,,े'>|<fs af='ठाणे,n,n,sg,,d,,'>
+12.2	महापालिका	XC	<fs af='महापालिका,n,,,,,,'>|<fs af='महापालिका,n,,sg,,o,ा,ा'>
+12.3	प्रशासनाला	NN	<fs af='प्रशासन,n,n,sg,,o,ला,ा_ला'>
+	))		
+13	((	NP	
+13.1	लक्ष	NN	<fs af='लक्ष,num,,,,,,'>|<fs af='लक्ष,n,n,sg,,d,,'>|<fs af='लक्ष,n,m,sg,,d,,'>|<fs af='लक्ष,n,m,pl,,d,,'>|<fs af='लक्ष,n,,,,,,'>
+	))		
+14	((	VGF	
+14.1	द्यावे	VM	<fs af='दे,v,,,,,वे,वे'>|<fs af='दे,v,m,pl,1,,ावे,ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,1,,ावे,ावे' m='o' type='ak'>|<fs af='दे,v,m,pl,2,,ावे,ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,2,,ावे,ावे' m='o' type='ak'>|<fs af='दे,v,n,sg,3,,ावे,ावे' m='o' type='ak'>|<fs af='दे,v,m,pl,3,,ावे,ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,2,,ावे,ावे' t='pas' a='h' type='ak'>|<fs af='दे,v,m,sg,1,,े,व_े' t='pas' a='h' type='ak'>|<fs af='दे,v,m,sg,3,,े,व_े' t='pas' a='h' type='ak'>|<fs af='दे,v,m,pl,1,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,1,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,m,pl,2,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,2,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,n,sg,3,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,m,pl,3,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,2,,ावे,्य_ावे' t='pas' a='h' type='ak'>|<fs af='दे,v,,,,,ावे,्य_ावे'>|<fs af='दे,v,m,pl,1,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,1,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,m,pl,2,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,2,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,n,sg,3,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,m,pl,3,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,2,,ावे,्य_ावे' t='pas' a='h' type='ak'>|<fs af='दे,v,m,pl,1,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,1,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,m,pl,2,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,2,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,n,sg,3,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,m,pl,3,,ावे,्य_ावे' m='o' type='ak'>|<fs af='दे,v,f,pl,2,,ावे,्य_ावे' t='pas' a='h' type='ak'>
+14.2	लागले	VAUX	<fs af='लाग,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='लाग,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='लाग,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='लाग,v,n,sg,,d,ले,ले' type='kr'>|<fs af='लाग,v,m,pl,,d,ले,ले' type='kr'>|<fs af='लाग,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='लाग,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='लाग,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>
+14.3	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+14.4	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2484">
+1	((	NP	
+1.1	हजारो	NN	<fs af='हजारो,n,,,,,,'>
+	))		
+2	((	NP	
+2.1	एकर	NN	<fs af='एकर,n,m,sg,,d,,'>|<fs af='एकर,n,m,pl,,d,,'>
+	))		
+3	((	NP	
+3.1	जमिनीवरील	NN	<fs af='जमीन,n,f,sg,,o,ल,ी_वरी_ल'>|<fs af='जमीन,n,f,pl,,d,,ी_वरी_ल'>|<fs af='जमीन,n,f,sg,,o,ील,ी_वर_ील'>|<fs af='जमीन,n,f,pl,,d,,ी_वर_ील'>
+	))		
+4	((	NP	
+4.1	खारफुटीच्या	NN	<fs af='खारफुटीच्या,unk,,,,,,'>
+	))		
+5	((	NP	
+5.1	जंगलांवर	NN	<fs af='जंगल,n,n,pl,,o,वर,ां_वर'>
+	))		
+6	((	NP	
+6.1	अतिक्रमणे	NN	<fs af='अतिक्रमण,n,n,pl,,d,,े'>
+	))		
+7	((	VGNN	
+7.1	झाल्यानंतर	VM	<fs af='हो,v,,,,,नंतर,ल्या_नंतर'>|<fs af='हो,v,f,pl,3,,झा_ल्या_नंतर,झा_ल्या_नंतर' t='pas' a='p' type='ak'>|<fs af='हो,v,f,pl,,d,झा_ल्या_नंतर,झा_ल्या_नंतर' type='kr'>|<fs af='हो,v,,,,o,झा_ल्या_नंतर,झा_ल्या_नंतर' type='kr'>|<fs af='हो,v,f,pl,,d,झा_ल्या_नंतर,झा_ल्या_नंतर' type='kr'>|<fs af='हो,v,,,,o,झा_ल्या_नंतर,झा_ल्या_नंतर' type='kr'>
+	))		
+8	((	NP	
+8.1	आता	NST	<fs af='आता,n,,,,,,'>|<fs af='ये,v,m,pl,2,,ता,ता' t='pre' a='h' type='ak'>|<fs af='ये,v,f,pl,2,,ता,ता' t='pre' a='h' type='ak'>|<fs af='ये,v,m,pl,2,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='ये,v,f,pl,2,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='ये,v,m,sg,3,,ता,ता' t='pas' a='p' m='c' type='ak'>|<fs af='ये,v,,,,,ता,ता' type='kr'>
+	))		
+9	((	NP	
+9.1	कृत्रिमरीत्या	NN	<fs af='कृत्रिमरीत्या,unk,,,,,,'>
+	))		
+10	((	NP	
+10.1	ही	DEM	<fs af='ही,avy,,,,,,'>|<fs af='ही,pn,,,,,,'>|<fs af='ही,pn,f,sg,,d,,'>|<fs af='हे,pn,,,,,ी,ी'>
+10.2	जंगले	NN	<fs af='जंगल,n,n,pl,,d,,े'>
+	))		
+11	((	VGNN	
+11.1	वाढविण्याचा	VM	<fs af='वाढव,v,,,,,िण्या_चा,िण्या_चा'>
+	))		
+12	((	NP	
+12.1	फतवा	NN	<fs af='फतवा,unk,,,,,,'>
+	))		
+13	((	NP	
+13.1	काही	QF	<fs af='काही,avy,,,,,,'>|<fs af='काही,avy,,,,,,'>
+13.2	महिन्यांपूर्वी	NN	<fs af='महिना,n,m,pl,,o,पूर्वी,्यां_पूर्वी'>
+	))		
+14	((	NP	
+14.1	महापालिकेने	NN	<fs af='महापालिका,n,,sg,,o,ने,े_ने'>
+	))		
+15	((	VGF	
+15.1	काढला	VM	<fs af='काढ,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='काढ,v,m,sg,,d,ला,ला' type='kr'>|<fs af='काढ,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>
+15.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2485">
+1	((	CCP	
+1.1	पण	CC	<fs af='पण,avy,,,,,,'>|<fs af='पण,avy,,,,,,'>|<fs af='पण,n,m,sg,,d,,'>|<fs af='पण,n,m,pl,,d,,'>
+1.2	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	बैल	NN	<fs af='बैल,n,m,sg,,d,,'>|<fs af='बैल,n,m,pl,,d,,'>
+	))		
+3	((	VGF	
+3.1	गेला	VM	<fs af='जा,v,,,,,ला,ला'>|<fs af='जा,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='जा,v,m,sg,,d,ला,ला' type='kr'>
+	))		
+4	((	CCP	
+4.1	आणि	CC	<fs af='आणि,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	झोपा	NN	<fs af='झोप,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='झोप,n,f,pl,,d,,ा'>|<fs af='झोपा,n,m,sg,,d,,'>
+	))		
+6	((	VGF	
+6.1	केला	VM	<fs af='कर,v,m,sg,1,,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,1,d,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,d,ला,े_ला' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='कर,v,m,sg,,d,ला,ला' type='kr'>
+6.2	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+7	((	NP	
+7.1	अशी	JJ	<fs af='अशी,pn,f,sg,,d,,'>|<fs af='असे,pn,n,pl,,d,,शी'>
+7.2	परिस्थिती	NN	<fs af='परिस्थिती,n,,,,,,'>|<fs af='परिस्थिती,n,,sg,,o,ी,ी'>
+	))		
+8	((	NP	
+8.1	आज	NN	<fs af='आज,n,,,,,,'>
+	))		
+9	((	NP	
+9.1	निर्माण	NN	<fs af='निर्माण,n,,,,,,'>
+	))		
+10	((	VGF	
+10.1	झाली	VM	<fs af='हो,v,,,,,ली,ली'>|<fs af='हो,v,f,sg,3,,ली,झा_ली' t='pas' a='p' type='ak'>|<fs af='हो,v,n,pl,3,,ली,झा_ली' t='pas' a='p' type='ak'>|<fs af='हो,v,f,sg,,d,ली,झा_ली' type='kr'>|<fs af='हो,v,n,pl,,d,ली,झा_ली' type='kr'>|<fs af='हो,v,f,sg,,d,ली,झा_ली' type='kr'>|<fs af='हो,v,n,pl,,d,ली,झा_ली' type='kr'>
+10.2	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+10.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2486">
+1	((	NP	
+1.1	खारफुटीच्या	NN	<fs af='खारफुटीच्या,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	जंगलांवर	NN	<fs af='जंगल,n,n,pl,,o,वर,ां_वर'>
+	))		
+3	((	NP	
+3.1	अतिक्रमण	NN	<fs af='अतिक्रमण,n,n,sg,,d,,'>
+	))		
+4	((	VGNN	
+4.1	करण्याची	VM	<fs af='कर,v,n,sg,,o,ची,ण्या_ची' kr='n_kr' type='kr'>|<fs af='करणी,n,f,pl,,d,,्या_ची'>
+	))		
+5	((	NP	
+5.1	एक	QC	<fs af='एक,num,,,,,,'>|<fs af='एक,n,m,sg,,d,,'>|<fs af='एक,n,m,pl,,d,,'>|<fs af='एक,n,,,,,,'>
+5.2	पद्धतशीर	NN	<fs af='पद्धतशीर,adv,,,,,,'>
+	))		
+6	((	NP	
+6.1	योजना	NN	<fs af='योजना,n,f,sg,,d,,'>|<fs af='योजना,n,f,pl,,d,,'>
+	))		
+7	((	NP	
+7.1	खाबुगिरी	NN	<fs af='खाबुगिरी,unk,,,,,,'>
+	))		
+8	((	VGF	
+8.1	करणाऱ्यांकडून	VM	<fs af='करणाऱ्यांकडून,unk,,,,,,'>
+8.2	आखली	VAUX	<fs af='आख,v,f,sg,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='आख,v,n,pl,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='आख,v,f,sg,,d,ली,ली' type='kr'>|<fs af='आख,v,n,pl,,d,ली,ली' type='kr'>
+8.3	जाते	VM	<fs af='जा,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,,,,,ते,ते'>
+8.4	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2487">
+1	((	NP	
+1.1	यात	PRP	<fs af='ये,v,,,,,ात,य_ात'>|<fs af='हा,pn,m,sg,,o,त,या_त'>|<fs af='ही,pn,f,sg,,o,त,या_त'>|<fs af='हे,pn,n,sg,,o,त,या_त'>
+	))		
+2	((	VGNF	
+2.1	नेत्यांपासून	VM	<fs af='नेता,n,m,pl,,o,पासून,्यां_पासून'>
+	))		
+3	((	NP	
+3.1	प्रशासनापर्यंत	NN	<fs af='प्रशासन,n,n,sg,,o,पर्यंत,ा_पर्यंत'>
+	))		
+4	((	NP	
+4.1	सर्वच	QF	<fs af='सर्व,avy,,,,,च,च'>|<fs af='सर्व,pn,,,,,च,च'>
+	))		
+5	((	JJP	
+5.1	सहभागी	JJ	<fs af='सहभागी,n,,,,,,'>
+	))		
+6	((	VGF	
+6.1	असतात	VM	<fs af='अस,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>
+6.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2488">
+1	((	NP	
+1.1	सुरुवातीला	NN	<fs af='सुरुवात,n,f,sg,,o,ला,ी_ला'>|<fs af='सुरुवात,n,f,pl,,d,,ी_ला'>
+	))		
+2	((	NP	
+2.1	खाडीतील	NN	<fs af='खाडी,n,f,sg,,o,तील,तील'>
+	))		
+3	((	VGNF	
+3.1	येणारे	VM	<fs af='ये,v,n,sg,,d,णारे,णारे' type='tn'>|<fs af='ये,v,m,pl,,d,णारे,णारे' type='tn'>|<fs af='ये,v,,,,,णारे,णारे'>
+	))		
+4	((	NP	
+4.1	खारे	NN	<fs af='खारे,unk,,,,,,'>
+	))		
+5	((	NP	
+5.1	पाणी	NN	<fs af='पाणी,n,n,sg,,d,,'>
+	))		
+6	((	NP	
+6.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+6.2	जंगलापर्यंत	NN	<fs af='जंगल,n,n,sg,,o,पर्यंत,ा_पर्यंत'>
+	))		
+7	((	NP	
+7.1	पोहोचू	NN	<fs af='पोहोच,v,,pl,1,,ू,ू' t='fut' type='ak'>|<fs af='पोहोच,v,,pl,1,,ू,ू' m='o' type='ak'>|<fs af='पोहोच,v,f,pl,1,,ू,ू' t='pas' a='h' type='ak'>|<fs af='पोहोच,v,,,,,ू,ू' type='kr'>
+	))		
+8	((	VGF	
+8.1	दिले	VM	<fs af='दे,v,f,sg,1,,ले,ि_ले' t='pas' a='p' type='ak'>|<fs af='दे,v,n,sg,3,,ले,ि_ले' t='pas' a='p' type='ak'>|<fs af='दे,v,m,pl,3,,ले,ि_ले' t='pas' a='p' type='ak'>|<fs af='दे,v,n,sg,,d,ले,ि_ले' type='kr'>|<fs af='दे,v,m,pl,,d,ले,ि_ले' type='kr'>|<fs af='दे,v,,,,,ले,ि_ले'>|<fs af='दे,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='दे,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='दे,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='दे,v,n,sg,,d,ले,ले' type='kr'>|<fs af='दे,v,m,pl,,d,ले,ले' type='kr'>|<fs af='दे,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='दे,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='दे,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>
+8.2	जात	VAUX	<fs af='जा,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='जा,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='जा,v,,,,,त,त' type='kr'>|<fs af='जा,v,,,,,ात,ात'>|<fs af='जा,v,,,,,त,त'>|<fs af='जा,v,,,,,ात,ात'>
+8.3	नाही	NEG	<fs af='नाही,v,,,,,,'>|<fs af='नाही,v,,sg,1,,ी,ी' t='pre' a='s' type='ak'>|<fs af='नाही,v,,pl,1,,ी,ी' t='pre' a='s' type='ak'>|<fs af='नाही,v,,pl,2,,ी,ी' t='pre' a='s' type='ak'>|<fs af='नाही,v,,sg,3,,ी,ी' t='pre' a='s' type='ak'>|<fs af='नाही,avy,,,,,,'>
+8.4	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2489">
+1	((	CCP	
+1.1	त्यामुळे	CC	<fs af='ती,pn,f,pl,,d,,्या_मुळे'>|<fs af='ती,pn,f,sg,,o,मुळे,्या_मुळे'>|<fs af='ती,pn,,,,,मुळे,्या_मुळे'>|<fs af='ते,pn,n,sg,,o,मुळे,्या_मुळे'>|<fs af='ते,pn,,,,,मुळे,्या_मुळे'>|<fs af='तो,pn,m,sg,,o,मुळे,्या_मुळे'>|<fs af='तो,pn,,,,,मुळे,्या_मुळे'>|<fs af='त्यामुळे,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	ही	DEM	<fs af='ही,avy,,,,,,'>|<fs af='ही,pn,,,,,,'>|<fs af='ही,pn,f,sg,,d,,'>|<fs af='हे,pn,,,,,ी,ी'>
+2.2	जंगले	NN	<fs af='जंगल,n,n,pl,,d,,े'>
+	))		
+3	((	RBP	
+3.1	आपोआप	RB	<fs af='आपोआप,adv,,,,,,'>
+	))		
+4	((	VGF	
+4.1	मरतात	VM	<fs af='मर,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='मर,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='मर,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>
+4.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2490">
+1	((	CCP	
+1.1	मग	NST	<fs af='मग,nst,,,,,,'>|<fs af='मग,n,,,,,,'>
+	))		
+2	((	NP	
+2.1	त्यावर	PRP	<fs af='ते,pn,n,sg,,o,वर,्या_वर'>|<fs af='तो,pn,m,sg,,o,वर,्या_वर'>
+	))		
+3	((	NP	
+3.1	संगनमताने	NN	<fs af='संगनमत,n,n,sg,,o,ने,ा_ने'>
+	))		
+4	((	NP	
+4.1	भराव	NN	<fs af='भराव,unk,,,,,,'>
+	))		
+5	((	VGF	
+5.1	टाकला	VM	<fs af='टाक,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='टाक,v,m,sg,,d,ला,ला' type='kr'>|<fs af='टाक,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>
+5.2	जातो	VM	<fs af='जा,v,m,sg,1,,तो,तो' t='pre' a='h' type='ak'>|<fs af='जा,v,m,pl,1,,तो,तो' t='pre' a='h' type='ak'>|<fs af='जा,v,f,pl,1,,तो,तो' t='pre' a='h' type='ak'>|<fs af='जा,v,m,sg,3,,तो,तो' t='pre' a='h' type='ak'>|<fs af='जा,v,m,sg,1,,तो,तो' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,m,pl,1,,तो,तो' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,f,pl,1,,तो,तो' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,,,,,तो,तो'>
+5.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2491">
+1	((	NP	
+1.1	काही	QF	<fs af='काही,avy,,,,,,'>|<fs af='काही,avy,,,,,,'>
+1.2	ठिकाणी	NN	<fs af='ठिकाण,n,,sg,,o,ी,ी'>|<fs af='ठिकाण,n,,,,,ी,ी'>
+	))		
+2	((	NP	
+2.1	दर्शनी	NN	<fs af='दर्शन,n,,,,,ी,ी'>|<fs af='दर्शनी,n,,,,,,'>
+	))		
+3	((	NP	
+3.1	भागात	NN	<fs af='भाग,n,m,sg,,o,त,ा_त'>
+	))		
+4	((	NP	
+4.1	चार	QC	<fs af='चार,num,,,,,,'>|<fs af='चार,v,,sg,2,,,' m='i'>|<fs af='चार,n,m,sg,,d,,'>|<fs af='चार,n,m,pl,,d,,'>|<fs af='चार,n,,,,,,'>
+4.2	-	SYM	<fs af=',punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	दोन	QC	<fs af='दोन,num,,,,,,'>|<fs af='दोन,n,,,,,,'>
+5.2	झोपड्या	NN	<fs af='झोपडी,n,f,pl,,d,,्या'>|<fs af='झोपडे,n,n,sg,,o,्या,्या'>
+	))		
+6	((	VGF	
+6.1	बांधल्या	VM	<fs af='बांध,v,f,pl,3,,ल्या,ल्या' t='pas' a='p' type='ak'>|<fs af='बांध,v,f,pl,,d,ल्या,ल्या' type='kr'>|<fs af='बांध,v,,,,o,ल्या,ल्या' type='kr'>
+6.2	जातात	VM	<fs af='जा,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='जा,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='जा,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='जा,v,,,,,तात,तात'>
+	))		
+7	((	CCP	
+7.1	आणि	CC	<fs af='आणि,avy,,,,,,'>
+	))		
+8	((	NP	
+8.1	झोपड्यांच्या	NN	<fs af='झोपडे,n,n,pl,,o,च्या,्यां_च्या'>
+	))		
+9	((	NP	
+9.1	मागे	NST	<fs af='माग,nst,,,,,े,े'>|<fs af='माग,v,m,sg,1,,े,े' t='pas' a='h' type='ak'>|<fs af='माग,v,m,sg,3,,े,े' t='pas' a='h' type='ak'>|<fs af='मागे,nst,,,,,,'>
+	))		
+10	((	RBP	
+10.1	अगदी	RB	<fs af='अगदी,adv,,,,,,'>|<fs af='अगदी,avy,,,,,,'>|<fs af='अगदी,avy,,,,,,'>
+	))		
+11	((	NP	
+11.1	एका	QC	<fs af='एक,n,m,sg,,o,ा,ा'>|<fs af='एका,num,,,,,,'>
+11.2	रात्रीत	NN	<fs af='रात्र,n,f,sg,,o,त,ी_त'>|<fs af='रात्र,n,f,pl,,d,,ी_त'>
+	))		
+12	((	RBP	
+12.1	अचानक	RB	<fs af='अचानक,adv,,,,,,'>|<fs af='अचानक,n,,,,,,'>
+	))		
+13	((	NP	
+13.1	शे	NN	<fs af='शे,unk,,,,,,'>
+13.2	-	SYM	<fs af=',punc,,,,,,'>
+	))		
+14	((	NP	
+14.1	दोनशे	QC	<fs af='दोनशे,num,,,,,,'>
+14.2	ट्रक	NN	<fs af='ट्रक,unk,,,,,,'>
+	))		
+15	((	NP	
+15.1	माती	NN	<fs af='मात,n,f,sg,,o,ी,ी'>|<fs af='मात,n,f,pl,,d,,ी'>|<fs af='माती,n,f,sg,,d,,'>|<fs af='माती,n,f,pl,,d,,'>|<fs af='माती,n,f,sg,,o,,'>
+	))		
+16	((	VGF	
+16.1	घेऊन	VM	<fs af='घे,v,,,,,ऊन,ऊन' type='kr'>|<fs af='घे,v,,,,,ऊन,ऊन'>
+16.2	येतात	VM	<fs af='ये,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='ये,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='ये,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='ये,v,,,,,तात,तात'>
+16.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2492">
+1	((	NP	
+1.1	आजूबाजूचे	NN	<fs af='आजूबाजू,nst,,,,,चे,चे'>
+	))		
+2	((	NP	
+2.1	रहिवासी	NN	<fs af='रहिवास,n,,sg,,o,ी,ी'>
+	))		
+3	((	NP	
+3.1	सकाळी	NN	<fs af='सकाळ,n,f,sg,,o,ी,ी'>|<fs af='सकाळ,n,f,pl,,d,,ी'>|<fs af='सकाळी,adv,,,,,,'>
+	))		
+4	((	VGNF	
+4.1	उठून	VM	<fs af='उठ,v,,,,,ून,ून' type='kr'>
+	))		
+5	((	VGF	
+5.1	पाहतात	VM	<fs af='पाह,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='पाह,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='पाह,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='पाह,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='पाह,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='पाह,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>
+	))		
+6	((	NP	
+6.1	तेव्हा	CC	<fs af='तेव्हा,avy,,,,,,'>|<fs af='तेव्हा,pn,,sg,,d,,'>|<fs af='तेव्हा,pn,,sg,,o,,'>|<fs af='तेव्हा,pn,,sg,,d,,'>
+	))		
+7	((	NP	
+7.1	तेथील	PRP	<fs af='तेथ,pn,,,,,ील,ील'>
+	))		
+8	((	NP	
+8.1	खारफुटीची	NN	<fs af='खारफुटीची,unk,,,,,,'>
+	))		
+9	((	VGNN	
+9.1	जंगले	VM	<fs af='जंगल,n,n,pl,,d,,े'>
+	))		
+10	((	JJP	
+10.1	गायब	JJ	<fs af='गायब,n,,,,,,'>
+	))		
+11	((	VGF	
+11.1	झालेली	VM	<fs af='हो,v,,,,,लेली,लेली'>|<fs af='हो,v,f,sg,,d,लेली,झा_लेली' type='kr'>|<fs af='हो,v,n,pl,,d,लेली,झा_लेली' type='kr'>|<fs af='हो,v,f,sg,,d,लेली,झा_लेली' type='kr'>|<fs af='हो,v,n,pl,,d,लेली,झा_लेली' type='kr'>
+11.2	असतात	VM	<fs af='अस,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>
+11.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2493">
+1	((	NP	
+1.1	कालपरवापर्यंत	NN	<fs af='कालपरवापर्यंत,unk,,,,,,'>
+	))		
+2	((	VGNF	
+2.1	दिसणारी	VM	<fs af='दिस,v,f,sg,,d,णारी,णारी' type='tn'>|<fs af='दिस,v,n,pl,,d,णारी,णारी' type='tn'>
+2.2	झाडे	VAUX	<fs af='झाड,v,m,sg,1,,े,े' t='pas' a='h' type='ak'>|<fs af='झाड,v,m,sg,3,,े,े' t='pas' a='h' type='ak'>|<fs af='झाड,n,n,pl,,d,,े'>|<fs af='झाडा,n,m,pl,,d,,े'>
+	))		
+3	((	RBP	
+3.1	अचानक	RB	<fs af='अचानक,adv,,,,,,'>|<fs af='अचानक,n,,,,,,'>
+	))		
+4	((	NP	
+4.1	महिन्या	NN	<fs af='महिना,n,m,sg,,o,्या,्या'>
+4.2	-	SYM	<fs af=',punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	दोन	QC	<fs af='दोन,num,,,,,,'>|<fs af='दोन,n,,,,,,'>
+5.2	महिन्यात	NN	<fs af='महिना,n,m,sg,,o,त,्या_त'>
+	))		
+6	((	NP	
+6.1	अंतर्धान	NN	<fs af='अंतर्धान,unk,,,,,,'>
+	))		
+7	((	VGF	
+7.1	पावतात	VM	<fs af='पाव,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='पाव,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='पाव,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>
+7.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2494">
+1	((	NP	
+1.1	त्यानंतर	PRP	<fs af='ते,pn,n,sg,,o,नंतर,्या_नंतर'>|<fs af='तो,pn,m,sg,,o,नंतर,्या_नंतर'>
+1.2	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	मनीपॉवर	NN	<fs af='मनीपॉवर,unk,,,,,,'>
+2.2	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	च्या	NN	<fs af='च्या,unk,,,,,,'>
+	))		
+4	((	NP	
+4.1	किमयेने	NN	<fs af='किमया,n,f,sg,,o,ने,े_ने'>
+	))		
+5	((	NP	
+5.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+5.2	जागेचे	NN	<fs af='जाग,n,f,sg,,o,चे,े_चे'>|<fs af='जागा,n,f,sg,,o,चे,े_चे'>
+	))		
+6	((	NP	
+6.1	सातबाराचे	NN	<fs af='सातबाराचे,unk,,,,,,'>
+	))		
+7	((	NP	
+7.1	उतारे	NN	<fs af='उतारा,n,m,pl,,d,,े'>|<fs af='उतारा,n,m,pl,,d,,े'>
+	))		
+8	((	JJP	
+8.1	तयार	JJ	<fs af='तयार,n,,,,,,'>
+	))		
+9	((	VGF	
+9.1	होतात	VM	<fs af='हो,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='हो,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='हो,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='हो,v,,,,,तात,तात'>
+9.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2495">
+1	((	NP	
+1.1	ज्यांच्या	PRP	<fs af='जी,pn,f,pl,,o,च्या,्यां_च्या'>|<fs af='जे,pn,n,pl,,o,च्या,्यां_च्या'>|<fs af='जो,pn,m,pl,,o,च्या,्यां_च्या'>
+	))		
+2	((	NP	
+2.1	नावाने	NN	<fs af='नाव,n,n,sg,,o,ने,ा_ने'>
+	))		
+3	((	NP	
+3.1	हे	DEM	<fs af='हा,pn,m,pl,,d,,े'>|<fs af='हा,pn,m,pl,,d,,े'>|<fs af='हे,pn,,,,,,'>|<fs af='हे,pn,n,sg,,d,,'>
+3.2	उतारे	NN	<fs af='उतारा,n,m,pl,,d,,े'>|<fs af='उतारा,n,m,pl,,d,,े'>
+	))		
+4	((	JJP	
+4.1	तयार	JJ	<fs af='तयार,n,,,,,,'>
+	))		
+5	((	VGF	
+5.1	होतात	VM	<fs af='हो,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='हो,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='हो,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='हो,v,,,,,तात,तात'>
+	))		
+6	((	NP	
+6.1	ते	PRP	<fs af='ते,avy,,,,,,'>|<fs af='ते,avy,,,,,,'>|<fs af='ते,pn,n,sg,,d,,'>|<fs af='ते,pn,,,,,,'>|<fs af='तो,pn,m,pl,,d,,े'>|<fs af='तो,pn,,,,,े,े'>
+6.2	देखील	RP	<fs af='देखील,avy,,,,,,'>
+	))		
+7	((	NP	
+7.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+7.2	षड्‌यंत्राचेच	NN	<fs af='षड्‌यंत्राचेच,unk,,,,,,'>
+	))		
+8	((	NP	
+8.1	भागीदार	NN	<fs af='भागीदार,n,m,sg,,d,,'>|<fs af='भागीदार,n,m,pl,,d,,'>
+	))		
+9	((	VGF	
+9.1	असतात	VM	<fs af='अस,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='अस,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>
+9.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2496">
+1	((	NP	
+1.1	शेवटी	NST	<fs af='शेवट,nst,,,,,ी,ी'>|<fs af='शेवटी,nst,,,,,,'>
+	))		
+2	((	NP	
+2.1	ही	DEM	<fs af='ही,avy,,,,,,'>|<fs af='ही,pn,,,,,,'>|<fs af='ही,pn,f,sg,,d,,'>|<fs af='हे,pn,,,,,ी,ी'>
+2.2	जागा	NN	<fs af='जाग,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='जाग,n,f,pl,,d,,ा'>|<fs af='जागा,n,f,sg,,d,,'>|<fs af='जागा,n,f,pl,,d,,'>|<fs af='जागा,adj,m,sg,,d,,'>
+	))		
+3	((	NP	
+3.1	बिल्डर्सच्या	NN	<fs af='बिल्डर्सच्या,unk,,,,,,'>
+	))		
+4	((	VGF	
+4.1	घशात	VM	<fs af='घसा,n,m,sg,,o,त,शा_त'>
+4.2	जाते	VM	<fs af='जा,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,,,,,ते,ते'>
+4.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2497">
+1	((	NP	
+1.1	खारफुटीच्या	NN	<fs af='खारफुटीच्या,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	जंगलांचे	NN	<fs af='जंगल,n,n,pl,,o,चे,ां_चे'>
+	))		
+3	((	NP	
+3.1	अस्तित्व	NN	<fs af='अस्तित्व,n,n,sg,,d,,'>
+	))		
+4	((	JJP	
+4.1	नष्ट	JJ	<fs af='नष्ट,n,,,,,,'>
+	))		
+5	((	VGNF	
+5.1	करणारी	VM	<fs af='कर,v,f,sg,,d,णारी,णारी' type='tn'>|<fs af='कर,v,n,pl,,d,णारी,णारी' type='tn'>
+	))		
+6	((	NP	
+6.1	ही	DEM	<fs af='ही,avy,,,,,,'>|<fs af='ही,pn,,,,,,'>|<fs af='ही,pn,f,sg,,d,,'>|<fs af='हे,pn,,,,,ी,ी'>
+6.2	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+7	((	NP	
+7.1	मोडस	XC	<fs af='मोड,n,,,,,स,स'>
+7.2	ऑपरेंडी	NNP	<fs af='ऑपरेंडी,unk,,,,,,'>
+7.3	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+8	((	RBP	
+8.1	निर्विघ्नपणे	RB	<fs af='निर्विघ्नपणे,unk,,,,,,'>
+	))		
+9	((	VGF	
+9.1	चालते	VM	<fs af='चाल,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='चाल,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='चाल,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='चाल,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='चाल,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='चाल,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='चाल,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='चाल,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='चाल,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='चाल,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='चाल,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='चाल,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>
+9.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2498">
+1	((	CCP	
+1.1	मग	NST	<fs af='मग,nst,,,,,,'>|<fs af='मग,n,,,,,,'>
+	))		
+2	((	NP	
+2.1	एखादी	QF	<fs af='एखादी,avy,,,,,,'>|<fs af='एखादी,avy,,,,,,'>|<fs af='एखादी,n,,,,,,'>
+2.2	स्वयंसेवी	JJ	<fs af='स्वयंसेवी,n,,,,,,'>
+2.3	संघटना	NN	<fs af='संघटन,n,,sg,,o,ा,ा'>|<fs af='संघटना,n,f,sg,,d,,'>|<fs af='संघटना,n,f,pl,,d,,'>
+	))		
+3	((	NP	
+3.1	त्याविरुद्ध	PRP	<fs af='ते,pn,n,sg,,o,विरुद्ध,्या_विरुद्ध'>|<fs af='तो,pn,m,sg,,o,विरुद्ध,्या_विरुद्ध'>
+	))		
+4	((	NP	
+4.1	आवाज	NN	<fs af='आवाज,n,m,sg,,d,,'>|<fs af='आवाज,n,m,pl,,d,,'>
+	))		
+5	((	VGF	
+5.1	उठवते	VM	<fs af='उठव,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='उठव,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='उठव,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='उठव,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='उठव,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='उठव,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2499">
+1	((	NP	
+1.1	हा	DEM	<fs af='हा,avy,,,,,,'>|<fs af='हा,pn,m,sg,,d,,'>|<fs af='हा,pn,m,sg,,d,,'>
+1.2	तात्पुरता	NN	<fs af='तात्पुरता,adj,m,sg,,d,,'>
+	))		
+2	((	NP	
+2.1	विरोध	NN	<fs af='विरोध,n,m,sg,,d,,'>|<fs af='विरोध,n,m,pl,,d,,'>
+	))		
+3	((	NP	
+3.1	शमविण्यासाठी	NN	<fs af='शमविण्यासाठी,unk,,,,,,'>
+	))		
+4	((	NP	
+4.1	प्रशासकीय	JJ	<fs af='प्रशासकीय,unk,,,,,,'>
+4.2	खेळ	NN	<fs af='खेळ,v,,sg,2,,,' m='i'>|<fs af='खेळ,n,m,sg,,d,,'>|<fs af='खेळ,n,m,pl,,d,,'>
+	))		
+5	((	VGF	
+5.1	खेळले	VM	<fs af='खेळ,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='खेळ,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='खेळ,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='खेळ,v,n,sg,,d,ले,ले' type='kr'>|<fs af='खेळ,v,m,pl,,d,ले,ले' type='kr'>
+5.2	जातात	VM	<fs af='जा,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='जा,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='जा,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='जा,v,,,,,तात,तात'>
+5.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2500">
+1	((	NP	
+1.1	थोडे	QF	<fs af='थोडा,adv,,,,,े,े'>|<fs af='थोडा,adj,m,pl,,d,,े'>|<fs af='थोडा,adj,n,sg,,d,,े'>|<fs af='थोडे,avy,,,,,,'>|<fs af='थोडे,avy,,,,,,'>
+1.2	वादळ	NN	<fs af='वादळ,n,n,sg,,d,,'>
+	))		
+2	((	VGF	
+2.1	शमले	VM	<fs af='शमले,unk,,,,,,'>
+	))		
+3	((	CCP	
+3.1	की	CC	<fs af='कर,v,m,sg,1,,ी,ी' t='pas' a='h' type='ak'>|<fs af='कर,v,m,sg,3,,ी,ी' t='pas' a='h' type='ak'>|<fs af='की,avy,,,,,,'>|<fs af='की,avy,,,,,,'>
+	))		
+4	((	NP	
+4.1	वर्ष	NN	<fs af='वर्ष,n,n,sg,,d,,'>
+4.2	-	SYM	<fs af=',punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	सहा	QC	<fs af='सहा,num,,,,,,'>|<fs af='सहा,n,m,sg,,d,,'>|<fs af='सहा,n,m,pl,,d,,'>
+5.2	महिन्यांनी	NN	<fs af='महिना,n,m,pl,,o,नी,्यां_नी'>
+	))		
+6	((	NP	
+6.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+6.2	जागेवर	NN	<fs af='जाग,n,f,sg,,o,वर,े_वर'>|<fs af='जागा,n,f,sg,,o,वर,े_वर'>
+	))		
+7	((	NP	
+7.1	घरे	NN	<fs af='घर,n,n,pl,,d,,े'>
+	))		
+8	((	JJP	
+8.1	उभी	JJ	<fs af='उभा,adj,f,sg,,d,,ी'>|<fs af='उभा,adj,n,pl,,d,,ी'>
+	))		
+9	((	VGF	
+9.1	राहतात	VM	<fs af='राह,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='राह,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='राह,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='राह,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='राह,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='राह,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>
+9.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2501">
+1	((	NP	
+1.1	या	DEM	<fs af='या,pn,m,sg,,d,,'>|<fs af='या,pn,n,sg,,d,,'>|<fs af='ये,v,,pl,2,,ा,य_ा' m='i' type='ak'>
+1.2	घरांना	NN	<fs af='घर,n,n,pl,,o,ना,ां_ना'>|<fs af='घरी,n,,sg,,o,ना,ां_ना'>
+	))		
+2	((	NP	
+2.1	मग	NST	<fs af='मग,nst,,,,,,'>|<fs af='मग,n,,,,,,'>
+	))		
+3	((	NP	
+3.1	महापालिकेतील	NN	<fs af='महापालिका,n,,sg,,o,तील,े_तील'>
+	))		
+4	((	NP	
+4.1	हितसंबंधी	JJ	<fs af='हित,n,,,,,संबंधी,संबंधी'>
+4.2	अधिकारी	NN	<fs af='अधिकारी,n,m,sg,,d,,'>|<fs af='अधिकारी,n,m,pl,,d,,'>
+	))		
+5	((	NP	
+5.1	सर्व	QF	<fs af='सर्व,avy,,,,,,'>|<fs af='सर्व,avy,,,,,,'>|<fs af='सर्व,pn,,sg,,d,,'>|<fs af='सर्व,pn,,sg,,d,,'>
+5.2	सुविधा	NN	<fs af='सुविधा,n,,,,,,'>|<fs af='सुविधा,n,,sg,,o,ा,ा'>
+	))		
+6	((	VGF	
+6.1	पुरवितात	VM	<fs af='पुरव,v,,,,,ितात,ितात'>
+6.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2502">
+1	((	NP	
+1.1	मूलभूत	JJ	<fs af='मूलभूत,n,,,,,,'>
+1.2	सुविधा	NN	<fs af='सुविधा,n,,,,,,'>|<fs af='सुविधा,n,,sg,,o,ा,ा'>
+	))		
+2	((	VGNN	
+2.1	पुरविताना	VM	<fs af='पुरव,v,,,,,िताना,िताना'>
+	))		
+3	((	NP	
+3.1	ही	DEM	<fs af='ही,avy,,,,,,'>|<fs af='ही,pn,,,,,,'>|<fs af='ही,pn,f,sg,,d,,'>|<fs af='हे,pn,,,,,ी,ी'>
+3.2	घरे	NN	<fs af='घर,n,n,pl,,d,,े'>
+3.3	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+4	((	NP	
+4.1	सीआरझेड	NNP	<fs af='सीआरझेड,unk,,,,,,'>
+4.2	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	कायद्याचा	NN	<fs af='कायदा,n,,sg,,o,चा,्या_चा'>|<fs af='कायदा,n,m,sg,,o,चा,्या_चा'>
+	))		
+6	((	NP	
+6.1	भंग	NN	<fs af='भंग,v,,sg,2,,,' m='i'>
+	))		
+7	((	VGNF	
+7.1	करून	VM	<fs af='कर,v,,,,,ून,ून' type='kr'>
+	))		
+8	((	VGF	
+8.1	बांधण्यात	VM	<fs af='बांध,v,,,,,ण्यात,ण्यात'>
+8.2	आली	VM	<fs af='आले,n,n,pl,,d,,ी'>|<fs af='ये,v,f,sg,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='ये,v,n,pl,3,,ली,ली' t='pas' a='p' type='ak'>|<fs af='ये,v,f,sg,,d,ली,ली' type='kr'>|<fs af='ये,v,n,pl,,d,ली,ली' type='kr'>|<fs af='ये,v,f,pl,2,,ली,आ_ली' t='pas' a='p' m='i' type='ak'>|<fs af='ये,v,n,pl,2,,ली,आ_ली' t='pas' a='p' m='i' type='ak'>|<fs af='ये,v,f,pl,2,d,ली,आ_ली' m='i' type='ak'>|<fs af='ये,v,n,pl,2,d,ली,आ_ली' m='i' type='ak'>|<fs af='ये,v,,,,,ली,आ_ली'>
+8.3	आहेत	VM	<fs af='आहे,v,,pl,3,,त,त' t='pre' a='s' type='ak'>
+8.4	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+9	((	NP	
+9.1	याचेही	PRP	<fs af='हा,pn,m,sg,,o,ही,या_चे_ही'>|<fs af='ही,pn,f,sg,,o,ही,या_चे_ही'>|<fs af='हे,pn,n,sg,,o,ही,या_चे_ही'>
+	))		
+10	((	NP	
+10.1	भान	NN	<fs af='भान,n,n,sg,,d,,'>|<fs af='भान,n,m,sg,,d,,'>|<fs af='भान,n,m,pl,,d,,'>
+	))		
+11	((	VGF	
+11.1	ठेवले	VM	<fs af='ठेव,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='ठेव,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='ठेव,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='ठेव,v,n,sg,,d,ले,ले' type='kr'>|<fs af='ठेव,v,m,pl,,d,ले,ले' type='kr'>|<fs af='ठेव,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='ठेव,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='ठेव,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>
+11.2	जात	VAUX	<fs af='जा,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='जा,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='जा,v,,,,,त,त' type='kr'>|<fs af='जा,v,,,,,ात,ात'>|<fs af='जा,v,,,,,त,त'>|<fs af='जा,v,,,,,ात,ात'>
+11.3	नाही	NEG	<fs af='नाही,v,,,,,,'>|<fs af='नाही,v,,sg,1,,ी,ी' t='pre' a='s' type='ak'>|<fs af='नाही,v,,pl,1,,ी,ी' t='pre' a='s' type='ak'>|<fs af='नाही,v,,pl,2,,ी,ी' t='pre' a='s' type='ak'>|<fs af='नाही,v,,sg,3,,ी,ी' t='pre' a='s' type='ak'>|<fs af='नाही,avy,,,,,,'>
+11.4	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2503">
+1	((	NP	
+1.1	खाडीकिनाऱ्यावरील	NN	<fs af='खाडीकिनाऱ्यावरील,unk,,,,,,'>
+	))		
+2	((	RBP	
+2.1	अर्थात	RB	<fs af='अर्थ,n,n,sg,,o,त,ा_त'>|<fs af='अर्थ,n,m,sg,,o,त,ा_त'>|<fs af='अर्थात,adv,,,,,,'>
+	))		
+3	((	NP	
+3.1	हायसाइट	NN	<fs af='हायसाइट,unk,,,,,,'>
+	))		
+4	((	NP	
+4.1	लेव्हलच्या	NN	<fs af='लेव्हलच्या,unk,,,,,,'>
+	))		
+5	((	NP	
+5.1	५००	QC	<fs af='५००,num,,,,,,'>
+5.2	मीटरपर्यंतच्या	NN	<fs af='मीटर,n,,sg,,o,च्या,पर्यंत_च्या'>|<fs af='मीटर,n,,,,,च्या,पर्यंत_च्या'>
+	))		
+6	((	NP	
+6.1	अंतरावर	NN	<fs af='अंतर,n,n,sg,,o,वर,ा_वर'>
+	))		
+7	((	NP	
+7.1	कोणतेही	PRP	<fs af='कोणते,pn,,,,,ही,ही'>
+	))		
+8	((	NP	
+8.1	बांधकाम	NN	<fs af='बांधकाम,n,n,sg,,d,,'>
+	))		
+9	((	VGF	
+9.1	करू	VM	<fs af='कर,v,,pl,1,,ू,ू' t='fut' type='ak'>|<fs af='कर,v,,pl,1,,ू,ू' m='o' type='ak'>|<fs af='कर,v,f,pl,1,,ू,ू' t='pas' a='h' type='ak'>|<fs af='कर,v,,,,,ू,ू' type='kr'>
+9.2	नये	NEG	<fs af='नये,v,,,,,,'>|<fs af='नये,v,,sg,1,,े,े' type='ak'>|<fs af='नये,v,,pl,1,,े,े' type='ak'>|<fs af='नये,v,,pl,2,,े,े' type='ak'>|<fs af='नये,v,,sg,3,,े,े' type='ak'>
+9.3	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+10	((	NP	
+10.1	असा	JJ	<fs af='अस,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='अस,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='असा,pn,m,sg,,d,,'>
+10.2	कायदा	NN	<fs af='कायदा,n,,,,,,'>|<fs af='कायदा,n,,sg,,o,ा,ा'>|<fs af='कायदा,n,m,sg,,d,,'>
+	))		
+11	((	VGF	
+11.1	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+11.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2504">
+1	((	NP	
+1.1	तो	PRP	<fs af='तो,pp,,,,,,'>|<fs af='तो,pn,m,sg,,d,,'>|<fs af='तो,pn,,,,,,'>
+	))		
+2	((	NP	
+2.1	धाब्यावर	NN	<fs af='धाबे,n,n,sg,,o,वर,्या_वर'>
+	))		
+3	((	VGF	
+3.1	बसविला	VM	<fs af='बसव,v,,,,,िला,िला'>
+3.2	जातो	VM	<fs af='जा,v,m,sg,1,,तो,तो' t='pre' a='h' type='ak'>|<fs af='जा,v,m,pl,1,,तो,तो' t='pre' a='h' type='ak'>|<fs af='जा,v,f,pl,1,,तो,तो' t='pre' a='h' type='ak'>|<fs af='जा,v,m,sg,3,,तो,तो' t='pre' a='h' type='ak'>|<fs af='जा,v,m,sg,1,,तो,तो' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,m,pl,1,,तो,तो' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,f,pl,1,,तो,तो' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,,,,,तो,तो'>
+3.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2505">
+1	((	NP	
+1.1	सीआरझेडमध्ये	NN	<fs af='सीआरझेडमध्ये,unk,,,,,,'>
+	))		
+2	((	VGNF	
+2.1	असलेल्या	VM	<fs af='अस,v,f,pl,,d,लेल्या,लेल्या' type='kr'>|<fs af='अस,v,,,,o,लेल्या,लेल्या' type='kr'>|<fs af='अस,v,,,,,लेल्या,लेल्या'>
+	))		
+3	((	NP	
+3.1	जमिनीवर	NN	<fs af='जमीन,n,f,sg,,o,वर,ी_वर'>|<fs af='जमीन,n,f,pl,,d,,ी_वर'>
+	))		
+4	((	VGNF	
+4.1	बांधलेली	VM	<fs af='बांध,v,f,sg,,d,लेली,लेली' type='kr'>|<fs af='बांध,v,n,pl,,d,लेली,लेली' type='kr'>
+	))		
+5	((	NP	
+5.1	घरे	NN	<fs af='घर,n,n,pl,,d,,े'>
+	))		
+6	((	CCP	
+6.1	मग	NST	<fs af='मग,nst,,,,,,'>|<fs af='मग,n,,,,,,'>
+	))		
+7	((	NP	
+7.1	कष्टकरी	XC	<fs af='कष्टकरी,unk,,,,,,'>
+7.2	लाख	QC	<fs af='लाख,num,,,,,,'>|<fs af='लाख,n,,,,,,'>|<fs af='लाख,n,n,sg,,d,,'>|<fs af='लाख,n,f,sg,,d,,'>|<fs af='लाख,n,,,,,,'>
+7.3	-	SYM	<fs af=',punc,,,,,,'>
+	))		
+8	((	NP	
+8.1	दोन	QC	<fs af='दोन,num,,,,,,'>|<fs af='दोन,n,,,,,,'>
+8.2	लाखात	NN	<fs af='लाख,n,,sg,,o,ात,ात'>|<fs af='लाख,n,,sg,,o,त,ा_त'>|<fs af='लाख,n,n,sg,,o,त,ा_त'>
+	))		
+9	((	VGF	
+9.1	विकत	VM	<fs af='विक,v,m,pl,3,,त,त' t='pas' a='h' type='ak'>|<fs af='विक,v,,,,,त,त' type='kr'>
+9.2	घेतात	VM	<fs af='घे,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='घे,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='घे,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='घे,v,,,,,तात,तात'>|<fs af='घे,v,,,,,ात,ात'>|<fs af='घे,v,m,pl,2,,त,ा_त' t='pas' a='h' m='i' type='ak'>|<fs af='घे,v,m,pl,2,,त,ा_त' t='pas' a='h' m='i' type='ak'>|<fs af='घे,v,,pl,2,,त,ा_त' m='i' type='ak'>|<fs af='घे,v,,,,,ात,ात'>|<fs af='घे,v,m,pl,2,,त,ा_त' t='pas' a='h' m='i' type='ak'>|<fs af='घे,v,m,pl,2,,त,ा_त' t='pas' a='h' m='i' type='ak'>
+9.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2506">
+1	((	NP	
+1.1	स्थानिक	JJ	<fs af='स्थानिक,n,,,,,,'>
+1.2	राजकीय	JJ	<fs af='राजकीय,n,,,,,,'>
+1.3	नेत्यांची	NN	<fs af='नेता,n,m,pl,,o,ची,्यां_ची'>
+	))		
+2	((	NP	
+2.1	ही	DEM	<fs af='ही,avy,,,,,,'>|<fs af='ही,pn,,,,,,'>|<fs af='ही,pn,f,sg,,d,,'>|<fs af='हे,pn,,,,,ी,ी'>
+2.2	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	व्होट	XC	<fs af='व्होट,unk,,,,,,'>
+3.2	बॅंक	NNP	<fs af='बॅंक,n,,,,,,'>
+3.3	'	SYM	<fs af='&#39;,punc,,,,,,'>
+	))		
+4	((	VGF	
+4.1	बनते	VM	<fs af='बन,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='बन,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='बन,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='बन,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='बन,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='बन,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>
+4.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2507">
+1	((	NP	
+1.1	त्यांना	PRP	<fs af='ती,pn,f,pl,,o,ना,्यां_ना'>|<fs af='ते,pn,n,pl,,o,ना,्यां_ना'>|<fs af='तो,pn,m,pl,,o,ना,्यां_ना'>
+	))		
+2	((	RBP	
+2.1	हटवणे	RB	<fs af='हटवणे,unk,,,,,,'>
+	))		
+3	((	NP	
+3.1	राजकीय	JJ	<fs af='राजकीय,n,,,,,,'>
+3.2	पक्षांना	NN	<fs af='पक्ष,n,m,pl,,o,ना,ां_ना'>
+	))		
+4	((	JJP	
+4.1	जड	JJ	<fs af='जड,v,,sg,2,,,' m='i'>|<fs af='जड,n,,,,,,'>
+	))		
+5	((	VGF	
+5.1	जाते	VM	<fs af='जा,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,,,,,ते,ते'>
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2508">
+1	((	NP	
+1.1	राजकीय	JJ	<fs af='राजकीय,n,,,,,,'>
+1.2	पक्षांनी	NN	<fs af='पक्ष,n,m,pl,,o,नी,ां_नी'>
+	))		
+2	((	NP	
+2.1	असा	JJ	<fs af='अस,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='अस,v,,pl,2,,ा,ा' m='i' type='ak'>|<fs af='असा,pn,m,sg,,d,,'>
+2.2	निर्णय	NN	<fs af='निर्णय,n,m,sg,,d,,'>|<fs af='निर्णय,n,m,pl,,d,,'>
+	))		
+3	((	VGF	
+3.1	घेतला	VM	<fs af='घे,v,m,pl,3,,ला,त_ला' t='pas' a='h' type='ak'>|<fs af='घे,v,m,pl,3,d,ला,त_ला' t='pas' a='h' type='ak'>|<fs af='घे,v,m,pl,3,,ला,त_ला' t='pas' a='h' type='ak'>|<fs af='घे,v,m,pl,3,d,ला,त_ला' t='pas' a='h' type='ak'>|<fs af='घे,v,m,sg,3,,ला,त_ला' t='pas' a='p' type='kr'>|<fs af='घे,v,m,sg,,d,ला,त_ला' type='kr'>|<fs af='घे,v,,,,,ला,त_ला'>|<fs af='घे,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>|<fs af='घे,v,m,sg,,d,ला,ला' type='kr'>|<fs af='घे,v,m,sg,3,,ला,ला' t='pas' a='p' type='ak'>
+	))		
+4	((	CCP	
+4.1	तरी	CC	<fs af='तर,v,m,sg,1,,ी,ी' t='pas' a='h' type='ak'>|<fs af='तर,v,m,sg,3,,ी,ी' t='pas' a='h' type='ak'>|<fs af='तर,n,f,sg,,o,ी,ी'>|<fs af='तर,n,f,pl,,d,,ी'>|<fs af='तरी,avy,,,,,,'>|<fs af='तरी,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	मानवाधिकाराचा	NN	<fs af='मानवाधिकाराचा,unk,,,,,,'>
+	))		
+6	((	NP	
+6.1	बागुलबुवा	NN	<fs af='बागुलबुवा,n,m,sg,,d,,'>|<fs af='बागुलबुवा,n,m,pl,,d,,'>
+	))		
+7	((	VGNF	
+7.1	करून	VM	<fs af='कर,v,,,,,ून,ून' type='kr'>
+	))		
+8	((	NP	
+8.1	अप्रत्यक्षरीत्या	NN	<fs af='अप्रत्यक्षरीत्या,unk,,,,,,'>
+	))		
+9	((	NP	
+9.1	अशा	JJ	<fs af='अशी,pn,f,pl,,d,,ा'>
+9.2	घरांना	NN	<fs af='घर,n,n,pl,,o,ना,ां_ना'>|<fs af='घरी,n,,sg,,o,ना,ां_ना'>
+	))		
+10	((	NP	
+10.1	संरक्षण	NN	<fs af='संरक्षण,n,n,sg,,d,,'>
+	))		
+11	((	VGF	
+11.1	दिले	VM	<fs af='दे,v,f,sg,1,,ले,ि_ले' t='pas' a='p' type='ak'>|<fs af='दे,v,n,sg,3,,ले,ि_ले' t='pas' a='p' type='ak'>|<fs af='दे,v,m,pl,3,,ले,ि_ले' t='pas' a='p' type='ak'>|<fs af='दे,v,n,sg,,d,ले,ि_ले' type='kr'>|<fs af='दे,v,m,pl,,d,ले,ि_ले' type='kr'>|<fs af='दे,v,,,,,ले,ि_ले'>|<fs af='दे,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='दे,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='दे,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='दे,v,n,sg,,d,ले,ले' type='kr'>|<fs af='दे,v,m,pl,,d,ले,ले' type='kr'>|<fs af='दे,v,f,sg,1,,ले,ले' t='pas' a='p' type='ak'>|<fs af='दे,v,n,sg,3,,ले,ले' t='pas' a='p' type='ak'>|<fs af='दे,v,m,pl,3,,ले,ले' t='pas' a='p' type='ak'>
+11.2	जाते	VM	<fs af='जा,v,f,sg,1,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,f,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,n,sg,3,,ते,ते' t='pre' a='h' type='ak'>|<fs af='जा,v,f,sg,1,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,n,sg,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,m,pl,3,,ते,ते' t='pas' a='p' m='c' type='ak'>|<fs af='जा,v,,,,,ते,ते'>
+11.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2509">
+1	((	NP	
+1.1	जमिनीची	NN	<fs af='जमीन,n,f,sg,,o,ची,ी_ची'>|<fs af='जमीन,n,f,pl,,d,,ी_ची'>
+	))		
+2	((	NP	
+2.1	धूप	NN	<fs af='धूप,v,,sg,2,,,' m='i'>
+	))		
+3	((	JJP	
+3.1	कमी	QF	<fs af='कमी,avy,,,,,,'>|<fs af='कमी,n,,,,,,'>
+	))		
+4	((	VGNN	
+4.1	करणे	VM	<fs af='कर,v,n,sg,,d,,णे' kr='n_kr' type='kr'>
+4.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	खाडीतील	NN	<fs af='खाडी,n,f,sg,,o,तील,तील'>
+	))		
+6	((	NP	
+6.1	दूषित	JJ	<fs af='दूषित,n,,,,,,'>
+6.2	पाणी	NN	<fs af='पाणी,n,n,sg,,d,,'>
+	))		
+7	((	JJP	
+7.1	शुद्ध	JJ	<fs af='शुद्ध,n,,,,,,'>
+	))		
+8	((	VGF	
+8.1	करणे	VM	<fs af='कर,v,n,sg,,d,,णे' kr='n_kr' type='kr'>
+8.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+</Sentence>
+
+<Sentence id="2510">
+1	((	NP	
+1.1	पर्यावरणाचा	NN	<fs af='पर्यावरणाचा,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	समतोल	NN	<fs af='समतोल,n,,,,,,'>
+	))		
+3	((	VGF	
+3.1	राखणे	VM	<fs af='राख,v,n,sg,,d,,णे' kr='n_kr' type='kr'>
+3.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+4	((	NP	
+4.1	माशांना	NN	<fs af='मासा,n,m,pl,,o,ना,शां_ना'>
+	))		
+5	((	VGNN	
+5.1	लागणारे	VM	<fs af='लाग,v,n,sg,,d,णारे,णारे' type='tn'>|<fs af='लाग,v,m,pl,,d,णारे,णारे' type='tn'>|<fs af='लाग,v,,,,,णारे,णारे'>
+	))		
+6	((	NP	
+6.1	खाद्य	NN	<fs af='खाद्य,n,n,sg,,d,,'>|<fs af='खाद्य,n,,,,,,'>
+	))		
+7	((	NP	
+7.1	निर्माण	NN	<fs af='निर्माण,n,,,,,,'>
+	))		
+8	((	VGNN	
+8.1	करणे	VM	<fs af='कर,v,n,sg,,d,,णे' kr='n_kr' type='kr'>
+8.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+9	((	NP	
+9.1	समुद्राच्या	NN	<fs af='समुद्र,n,m,sg,,o,च्या,ा_च्या'>
+	))		
+10	((	NP	
+10.1	ओहोटीमुळे	NN	<fs af='ओहोट,n,f,sg,,o,मुळे,ी_मुळे'>|<fs af='ओहोट,n,f,pl,,d,,ी_मुळे'>|<fs af='ओहोटी,n,f,sg,,o,मुळे,मुळे'>
+	))		
+11	((	NP	
+11.1	वेगाने	NN	<fs af='वेग,n,m,sg,,o,ने,ा_ने'>
+	))		
+12	((	VGNF	
+12.1	येणाऱ्या	VM	<fs af='येणाऱ्या,unk,,,,,,'>
+	))		
+13	((	NP	
+13.1	पाण्याचा	NN	<fs af='पाणी,n,n,sg,,o,चा,्या_चा'>
+	))		
+14	((	NP	
+14.1	वेग	NN	<fs af='वेग,n,m,sg,,d,,'>|<fs af='वेग,n,m,pl,,d,,'>
+	))		
+15	((	JJP	
+15.1	कमी	QF	<fs af='कमी,avy,,,,,,'>|<fs af='कमी,n,,,,,,'>
+	))		
+16	((	VGNN	
+16.1	करणे	VM	<fs af='कर,v,n,sg,,d,,णे' kr='n_kr' type='kr'>
+16.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+17	((	NP	
+17.1	पुराला	NN	<fs af='पुर,n,n,sg,,o,ला,ा_ला'>|<fs af='पूर,n,n,sg,,o,ला,ा_ला'>|<fs af='पूर,n,m,sg,,o,ला,ा_ला'>
+	))		
+18	((	NP	
+18.1	अटकाव	NN	<fs af='अटकाव,n,m,sg,,d,,'>|<fs af='अटकाव,n,m,pl,,d,,'>
+	))		
+19	((	VGNN	
+19.1	करणे	VM	<fs af='कर,v,n,sg,,d,,णे' kr='n_kr' type='kr'>
+	))		
+20	((	NP	
+20.1	आदी	JJ	<fs af='आदी,n,,,,,,'>
+20.2	फायदे	NN	<fs af='फायदा,n,m,pl,,d,,े'>
+	))		
+21	((	NP	
+21.1	ज्या	PRP	<fs af='जी,pn,f,pl,,d,,्या'>|<fs af='जी,pn,f,sg,,o,्या,्या'>|<fs af='जी,pn,,,,,्या,्या'>|<fs af='जे,pn,n,sg,,o,्या,्या'>|<fs af='जे,pn,,,,,्या,्या'>|<fs af='जो,pn,m,sg,,o,्या,्या'>|<fs af='जो,pn,,,,,्या,्या'>
+	))		
+22	((	NP	
+22.1	खारफुटीच्या	NN	<fs af='खारफुटीच्या,unk,,,,,,'>
+	))		
+23	((	NP	
+23.1	जंगलांमुळे	NN	<fs af='जंगल,n,n,pl,,o,मुळे,ां_मुळे'>
+	))		
+24	((	VGF	
+24.1	मिळतात	VM	<fs af='मिळ,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='मिळ,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='मिळ,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='मिळ,v,m,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='मिळ,v,f,pl,3,,तात,तात' t='pre' a='h' type='ak'>|<fs af='मिळ,v,n,pl,3,,तात,तात' t='pre' a='h' type='ak'>
+24.2	,	SYM	<fs af='&sbquo;,punc,,,,,,'>
+	))		
+25	((	NP	
+25.1	त्याकडे	PRP	<fs af='ते,pn,n,sg,,o,कडे,्या_कडे'>|<fs af='तो,pn,m,sg,,o,कडे,्या_कडे'>
+	))		
+26	((	NP	
+26.1	संपूर्ण	QF	<fs af='संपूर्ण,avy,,,,,,'>|<fs af='संपूर्ण,avy,,,,,,'>|<fs af='संपूर्ण,n,,,,,,'>
+26.2	दुर्लक्ष	NN	<fs af='दुर्लक्ष,n,n,sg,,d,,'>
+	))		
+27	((	VGNF	
+27.1	करून	VM	<fs af='कर,v,,,,,ून,ून' type='kr'>
+	))		
+28	((	NP	
+28.1	केवळ	JJ	<fs af='केवळ,avy,,,,,,'>|<fs af='केवळ,avy,,,,,,'>|<fs af='केवळ,n,,,,,,'>
+28.2	आर्थिक	JJ	<fs af='आर्थिक,n,,,,,,'>
+28.3	तोडबाजीसाठी	NN	<fs af='तोडबाजीसाठी,unk,,,,,,'>
+	))		
+29	((	VGNF	
+29.1	होणारी	VM	<fs af='हो,v,f,sg,,d,णारी,णारी' type='tn'>|<fs af='हो,v,n,pl,,d,णारी,णारी' type='tn'>|<fs af='हो,v,f,sg,,d,णारी,णारी' type='tn'>|<fs af='हो,v,n,pl,,d,णारी,णारी' type='tn'>
+	))		
+30	((	NP	
+30.1	ही	DEM	<fs af='ही,avy,,,,,,'>|<fs af='ही,pn,,,,,,'>|<fs af='ही,pn,f,sg,,d,,'>|<fs af='हे,pn,,,,,ी,ी'>
+30.2	सौदेबाजी	NN	<fs af='सौदेबाजी,unk,,,,,,'>
+	))		
+31	((	NP	
+31.1	पर्यावरणासोबतच	NN	<fs af='पर्यावरणासोबतच,unk,,,,,,'>
+	))		
+32	((	NP	
+32.1	माणसाचे	NN	<fs af='माणूस,n,m,sg,,o,चे,ा_चे'>|<fs af='माणूस,n,n,sg,,o,चे,ा_चे'>|<fs af='माणूस,n,m,sg,,o,चे,ा_चे'>
+	))		
+33	((	NP	
+33.1	आयुष्यही	NN	<fs af='आयुष्य,n,,,,,ही,ही'>
+	))		
+34	((	JJP	
+34.1	असंतुलित	JJ	<fs af='असंतुलित,n,,,,,,'>
+	))		
+35	((	VGF	
+35.1	करीत	VM	<fs af='कर,v,m,pl,3,,ीत,ीत' t='pas' a='h' type='ak'>
+35.2	आहे	VM	<fs af='आहे,v,,,,,,'>|<fs af='आहे,v,,sg,1,,े,े' t='pre' a='s' type='ak'>|<fs af='आहे,v,,sg,3,,े,े' t='pre' a='s' type='ak'>
+35.3	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+	))		
+</Sentence>
