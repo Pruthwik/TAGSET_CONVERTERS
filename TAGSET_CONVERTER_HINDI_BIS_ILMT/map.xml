@@ -16,11 +16,19 @@
 		<sourcetag>PR_PRQ</sourcetag>
 		<sourcetag>PR_PRL</sourcetag>
 		<sourcetag>PR_PRF</sourcetag>
+		<sourcetag>PR_PRI</sourcetag>
+		<sourcetag>PR_PRC</sourcetag>
 		<destinationtag>PRP</destinationtag>
 	</rule>
 	<rule>
 		<sourcetag>DM_DMD</sourcetag>
+		<sourcetag>DM_DMR</sourcetag>
 		<destinationtag>DEM</destinationtag>
+	</rule>
+	<rule>
+		<sourcetag>PR_PRQ</sourcetag>
+		<sourcetag>DM_DMQ</sourcetag>
+		<destinationtag>WQ</destinationtag>
 	</rule>
 	<rule>
 		<sourcetag>V_VM</sourcetag>
@@ -33,6 +41,10 @@
 	<rule>
 		<sourcetag>JJ</sourcetag>
 		<destinationtag>JJ</destinationtag>
+	</rule>
+	<rule>
+		<sourcetag>CC_CCS_UT</sourcetag>
+		<destinationtag>UT</destinationtag>
 	</rule>
 	<rule>
 		<sourcetag>RB</sourcetag>
@@ -79,6 +91,10 @@
 	<rule>
 		<sourcetag>RP_NEG</sourcetag>
 		<destinationtag>NEG</destinationtag>
+	</rule>
+	<rule>
+		<sourcetag>RD_RDF</sourcetag>
+		<destinationtag>FW</destinationtag>
 	</rule>
 	<rule>
 		<sourcetag>RD_PUNC</sourcetag>
