@@ -1,7 +1,7 @@
 <scheme>
 	<rule>
 		<sourcetag>RDP</sourcetag>
-		<expression>{T2-T1-(RDP)=>T2-T1-T2}</expression>
+		<expression>{T2-T1-(RDP)=>T2-T1-T1}</expression>
 	</rule>
 	<rule>
 		<sourcetag>NNP</sourcetag>
