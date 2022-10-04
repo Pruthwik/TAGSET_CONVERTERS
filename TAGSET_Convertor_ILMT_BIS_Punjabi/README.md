@@ -1,0 +1,3 @@
+# PUNJABI_TAGSET_Convertor_ILMT_BIS
+
+punjabi_tagset_convertor_ilmt_bis
