@@ -85,11 +85,20 @@
 		<destinationtag>CC_CCS</destinationtag>
 	</rule>
 	<rule>
+		<sourcetag>CCC</sourcetag>
+		<destinationtag>CC_CCD</destinationtag>
+		<destinationtag>CC_CCS</destinationtag>
+	</rule>
+	<rule>
 		<sourcetag>WQ</sourcetag>
 		<destinationtag>PR_PRQ</destinationtag>
 	</rule>
 	<rule>
 		<sourcetag>QF</sourcetag>
+		<destinationtag>QT_QTF</destinationtag>
+	</rule>
+	<rule>
+		<sourcetag>QFC</sourcetag>
 		<destinationtag>QT_QTF</destinationtag>
 	</rule>
 	<rule>
@@ -106,6 +115,10 @@
 		<destinationtag>QT_QTO</destinationtag>
 	</rule>
 	<rule>
+		<sourcetag>QOC</sourcetag>
+		<destinationtag>QT_QTO</destinationtag>
+	</rule>
+	<rule>
 		<sourcetag>CL</sourcetag>
 		<destinationtag>RP_CL</destinationtag>
 	</rule>
@@ -115,6 +128,10 @@
 	</rule>
 	<rule>
 		<sourcetag>INJ</sourcetag>
+		<destinationtag>RP_INJ</destinationtag>
+	</rule>
+	<rule>
+		<sourcetag>INJC</sourcetag>
 		<destinationtag>RP_INJ</destinationtag>
 	</rule>
 	<rule>
