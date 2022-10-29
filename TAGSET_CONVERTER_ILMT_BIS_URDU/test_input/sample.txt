@@ -1,0 +1,46 @@
+<Sentence id='1'>
+1	((	NP	<fs name='NP' drel='ccof:CCP'>
+1.1	غیرموسمی	JJ	<fs af='غیرموسمی,adj,any,any,,o,,' posn='10' name='غیرموسمی'>
+1.2	بارش	NN	<fs af='بارش,n,f,sg,3,o,0,0' posn='20' name='بارش'>
+	))
+2	((	CCP	<fs name='CCP' drel='rh:VGF'>
+2.1	اور	CC	<fs af='اور,avy,,,,,,' posn='30' name='اور'>
+	))
+3	((	NP	<fs name='NP2' drel='ccof:CCP'>
+3.1	تیز	JJ	<fs af='تیز,adj,any,any,,o,,' posn='40' name='تیز'>
+3.2	ہواؤں	NN	<fs af='ہوا,n,f,pl,3,o,0,0' posn='50' name='ہواؤں'>
+3.3	کی	PSP	<fs af='کا,psp,f,sg,,o,,' posn='60' name='کی'>
+3.4	وجہ	PSP	<fs af='وجہ,psp,f,sg,,o,,' posn='70' name='وجہ'>
+3.5	سے	PSP	<fs af='سے,psp,,,,,,' posn='80' name='سے'>
+	))
+4	((	NP	<fs name='NP3' drel='ccof:CCP2'>
+4.1	ویملواڑہ	NNP	<fs af='ویملواڑہ,n,m,sg,3,o,0,0' posn='90' name='ویملواڑہ'>
+4.2	,	SYM	<fs af=',,punc,,,,,' posn='100' name=','>
+	))
+5	((	NP	<fs name='NP4' drel='ccof:CCP2'>
+5.1	چندورتی	NNP	<fs af='چندورتی,n,m,sg,3,o,0,0' posn='110' name='چندورتی'>
+	))
+6	((	CCP	<fs name='CCP2' drel='k7p:VGF'>
+6.1	,	CC	<fs af=',,punc,,,,,' posn='120' name=',2'>
+	))
+7	((	NP	<fs name='NP5' drel='ccof:CCP2'>
+7.1	کنوراؤ	NNPC	<fs af='کنوراؤ,n,m,sg,3,d,0,0' posn='130' name='کنوراؤ'>
+7.2	پیٹ	NNP	<fs af='پیٹ,n,m,sg,3,o,0,0' posn='140' name='پیٹ'>
+7.3	منڈلوں	NN	<fs af='منڈل,n,m,pl,3,o,0,0' posn='150' name='منڈلوں'>
+7.4	مےں	PSP	<fs af='مےں,psp,,,,,,' posn='160' name='مےں'>
+	))
+8	((	NP	<fs name='NP6' drel='k4a:VGF'>
+8.1	کسانوں	NN	<fs af='کسان,n,m,pl,3,o,0,0' posn='170' name='کسانوں'>
+8.2	کو	PSP	<fs af='کو,psp,,,,,,' posn='180' name='کو'>
+	))
+9	((	NP	<fs name='NP7' drel='pof:VGF'>
+9.1	زبردست	JJ	<fs af='زبردست,adj,any,any,,d,,' posn='190' name='زبردست'>
+9.2	نقصانات	NN	<fs af='نقصان,n,m,pl,3,d,0,0' posn='200' name='نقصانات'>
+	))
+10	((	VGF	<fs name='VGF' stype='declarative' voicetype='active'>
+10.1	اٹھانا	VM	<fs af='اٹھا,v,m,sg,any,,نا,nA' posn='210' name='اٹھانا'>
+10.2	پڑا	VAUX	<fs af='پڑ,v,m,sg,3,,یا,yA' posn='220' name='پڑا'>
+10.3	۔	SYM	<fs af='۔,punc,,,,,,' posn='230' name='۔'>
+	))
+</Sentence>
+

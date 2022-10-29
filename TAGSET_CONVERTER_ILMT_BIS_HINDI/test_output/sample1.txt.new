@@ -1,0 +1,45 @@
+<Sentence id='1'>
+1	((	NP	<fs name='NP' drel='k7p:VGF'>
+1.1	सुनामी	JJ	<fs af='सुनामी,n,f,sg,3,d,0,0' name='सुनामी' posn='10'>
+1.2	प्रभावित	JJ	<fs af='प्रभावित,adj,any,any,,o,,' name='प्रभावित' posn='20'>
+1.3	इलाकों	N_NN	<fs af='इलाका,n,m,pl,3,o,0,0' name='इलाकों' posn='30'>
+1.4	में	PSP	<fs af='में,psp,,,,,,' name='में' posn='40'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	जिंदगी	N_NN	<fs af='जिंदगी,n,f,sg,3,d,0,0' name='जिंदगी' posn='50'>
+	))
+3	((	RBP	<fs name='RBP' drel='adv:VGF'>
+3.1	रफ्ता	RB	<fs af='रफ्ता,adv,,,,,,' name='रफ्ता' posn='60'>
+3.2	-	RD_SYM	<fs af='-,punc,,,,,,' name='-' posn='65'>
+3.3	रफ्ता	RB	<fs af='रफ्ता,adv,,,,,,' name='रफ्ता2' posn='70'>
+	))
+4	((	NP	<fs name='NP3' drel='k7:VGF'>
+4.1	पुराने	JJ	<fs af='पुराना,adj,m,sg,,o,,' name='पुराने' posn='80'>
+4.2	ढर्रे	N_NN	<fs af='ढर्रा,n,m,sg,3,o,0,0' name='ढर्रे' posn='90'>
+4.3	पर	PSP	<fs af='पर,psp,,,,,,' name='पर' posn='100'>
+	))
+5	((	VGF	<fs voicetype='active' name='VGF' stype='declarative' drel='ccof:CCP'>
+5.1	लौट	V_VM	<fs af='लौट,v,any,any,any,,0,0' name='लौट' posn='110'>
+5.2	रही	V_VAUX	<fs af='रह,v,f,sg,any,,या,yA' name='रही' posn='120'>
+5.3	है	V_VAUX	<fs af='है,v,any,sg,3,,है,hE' name='है' posn='130'>
+5.4	,	RD_PUNC	<fs af='COMMA,punc,,,,,,' name=',' posn='140'>
+	))
+6	((	CCP	<fs name='CCP'>
+6.1	लेकिन	CC_CCD	<fs af='लेकिन,avy,,,,,,' name='लेकिन' posn='150'>
+	))
+7	((	NP	<fs name='NP4' drel='k7t:VGF2'>
+7.1	अब	PR_PRP	<fs af='अब,pn,,,,d,,' name='अब' posn='160'>
+7.2	भी	RP_RPD	<fs af='भी,avy,,,,,,' name='भी' posn='170'>
+	))
+8	((	NP	<fs name='NP5' drel='k1:VGF2'>
+8.1	लोग	N_NN	<fs af='लोग,n,m,pl,3,d,0,0' name='लोग' posn='180'>
+	))
+9	((	VGF	<fs voicetype='active' name='VGF2' stype='declarative' drel='ccof:CCP'>
+9.1	सहम	V_VM	<fs af='सहम,v,any,any,any,,0,0' name='सहम' posn='190'>
+9.2	जाते	V_VAUX	<fs af='जा,v,m,pl,any,,ता,wA' name='जाते' posn='200'>
+9.3	हैं	V_VAUX	<fs af='है,v,any,pl,3,,है,hE' name='हैं' posn='210'>
+	))
+10	((	BLK	<fs name='BLK' drel='rsym:CCP'>
+10.1	।	RD_PUNC	<fs af='.,punc,,,,,,' name='।' posn='220'>
+	))
+</Sentence>
