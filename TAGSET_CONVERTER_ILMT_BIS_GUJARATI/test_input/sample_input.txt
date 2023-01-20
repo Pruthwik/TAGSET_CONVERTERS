@@ -1,0 +1,15 @@
+<Sentence id='1'>
+1	((	NP
+1.1	હું	PRP
+	))
+2	((	NP
+2.1	સારો	JJ
+2.2	છોકરો	NN
+	))
+3	((	VGF
+3.1	છું	VM
+	))
+4	((	BLK
+4.1	.	SYM
+	))
+</Sentence>

@@ -178,4 +178,8 @@
 		<sourcetag>UNK</sourcetag>
 		<destinationtag>RD_UNK</destinationtag>
 	</rule>
+	<rule>
+		<sourcetag>FW</sourcetag>
+		<destinationtag>RD_RDF</destinationtag>
+	</rule>
 </scheme>
